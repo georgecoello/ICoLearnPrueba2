@@ -1,0 +1,55 @@
+{
+    "nav": {
+        "lang":"Cambia lingua",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "CHI SIAMO ICoLearn", 
+        "partners": "Partner",
+        "results": "Risultati", 
+        "news": "Novità", 
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumento metodologico di apprendimento collaborativo e basato su Internet per la trasformazione digitale e la crescita sostenibile | Progetto N°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMAZIONI GENERALI", 
+    "t1": "Fondata nel 1847",
+    "t2": "È la più grande università pubblica dell'Honduras",
+    "t3": "Conta circa 65.000 studenti, più di 4.000 accademici e 2.500 amministrativi",
+    "t4": "Il campus si trova a Tegucigalpa (la capitale dell'Honduras) e ci sono 9 campus regionali",
+    "t5": "Ci sono 5 centri virtuali (Telecenter) e 8 ulteriori centri a lunga distanza (CRAED)"
+   },
+   "visit": {
+    "title": "VISITACI!"
+   }, 
+   "members": {
+    "title": "MEMBRI",
+    "button": "Vedi maggiori informazioni",
+    "area": "Area di specializzazione", 
+    "faculty": "Altre informazioni accademiche rilevanti su di te",
+    "coord": "COORDINATORE",
+    "subcoor": "SOTTOCOORDINATORE",
+    "modal1-i": "Frane indotte dalla pioggia, stabilità delle scarpate, analisi dei pericoli e dei rischi",
+    "team": "SQUADRA DELL'UNIVERSITÀ NAZIONALE AUTONOMA DELL'HONDURAS",
+    "modal1-f": "Ingegnere Civile (Università Nazionale Autonoma dell'Honduras), Dottore in Ingegneria Civile e Strutturale (Università di Uppsala), Certificazione in Rischio Geologico e Climatico (Università di Ginevra), Master in Geotecnica e Ingegneria delle Fondazioni (EADIC). ORCID: https://orcid.org/0000-0003-4362-4510 ",
+    "modal2-i": "Ingegneria Civile, Materiali da Costruzione, Pavimentazioni, Gestione dei Rischi, Ambiente, Gestione dei Progetti",
+    "modal2-f": "Ho un Master in Cambiamenti Climatici e Gestione del Territorio e un altro in Gestione dei Progetti, Responsabile dell'Unità di Gestione della Ricerca Scientifica in Ingegneria Civile, Membro del Gruppo di Ricerca in Gestione dei Rischi e Adattamento ai Cambiamenti Climatici, Tecnico in Prove sul Campo di Calcestruzzo ACI – Tecnico in Prove sugli Agregati Grado I e ACI - Livello 1, Professore Ordinario della Facoltà di Ingegneria in Ingegneria Civile, Materiali da Costruzione, Pavimentazioni, Area di Gestione. Ho partecipato a progetti di Cooperazione Internazionale.",
+    "modal3-i": "Ingegneria Geotecnica",
+    "modal3-f": "Aminta Velasquez è una ingegnera geotecnica consolidata che ha ottenuto il suo master presso l'Università della Florida. Prima dei suoi studi post-laurea, ha conseguito la laurea presso l'Università Nazionale Autonoma dell'Honduras. Attualmente è docente presso il Dipartimento di Ingegneria Civile dell'Università Nazionale Autonoma dell'Honduras.",
+    "modal4-i": "Ingegneria Strutturale e Geotecnica",
+    "modal4-f": "Attualmente sto lavorando su una ricerca sull'applicazione dell'indice di vulnerabilità in un distretto colpito da frane. Sto anche collaborando a 3 ricerche aggiuntive su argomenti diversi.",
+    "modal5-i": "Acqua e sanità, cambiamenti climatici",
+    "modal5-f": "Ingegnere magistro in strade, canali e porti",
+    "modal6-i": "Ingegneria strutturale e sismica",
+    "modal6-f": "Luis Aguirre è un Ingegnere Civile della UNAH con un Master in Ingegneria Strutturale, Sismica e Geotecnica dell'Università del Cile. Attualmente è Coordinatore Accademico del corso di laurea in Ingegneria Civile della UNAH. I suoi interessi di ricerca riguardano l'ingegneria strutturale e sismica, vulnerabilità e gestione dei rischi.",
+    "modal7-i": "Ingegneria dei materiali, ingegneria strutturale",
+    "modal8-i": "Ingegneria delle Acque e delle Acque Reflue",
+    "modal8-f": "Professore Ordinario",
+    "modal9-i": "Ingegneria Strutturale | Scienze dei Materiali | Sostenibilità", 
+    "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>"
+  }, 
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono tuttavia quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere considerati responsabili."
+    }
+}

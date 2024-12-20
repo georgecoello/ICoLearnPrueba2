@@ -1,0 +1,70 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+    "information": "GENERAL INFORMATION", 
+    "t1": "Year of foundation: 2002.",
+    "t2": "Number of students: 2400.",
+    "t3": "Subject areas:",
+    "t4": "Engineering",
+    "t5": "Marketing",
+    "t6": "Ecology",
+    "t7": "Social Area",
+    "t8": "Communication",
+    "t9": "Legal.",
+    "t10": "University name:",
+    "t11": "Faculty of Business Sciences",
+    "t12": "Faculty of Ecology and Environment",
+    "t13": "Faculty of Social Sciences",
+    "t14": "Faculty of Communication Sciences",
+    "t15": "Faculty of Legal Sciences",
+    "t16": "Faculty of Engineering.",
+    "t17": "Number of university campuses: 10 campuses nationwide."
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "relevant": {
+    "title": "OTHER RELEVANT INFORMATION", 
+    "info": "The Metropolitan University of Honduras is a private, non-profit higher education institution founded by the Metropolitan University Foundation FUMH (FUMH), through resolution 89-2001 published in the official newspaper La Gaceta on August 1, 2001, created by agreement No. 1068-154-2002 dated December 18, 2002, of the Higher Education Directorate of Honduras. It has 10 campuses nationwide in the main cities of the country, offers 9 bachelor's degrees, 7 master's degrees and two technical-professional level degrees, has 400 employees including executives, administrators and teachers, and has a student population of more than 6,000 students. Mission Contribute to the social, economic, technological and political development of the country, through the training of quality and competitive human resources, capable of transforming social, economic and political structures. Train generations of professionals with positive values ​​and attitudes in accordance with their human condition and the ethical and moral demands of society. Vision To be a higher education teaching center that provides quality educational services with international projection in the different fields of human knowledge. To be an advanced university in the techniques and methodologies related to the creation and transmission of science, arts and culture, forming a learning system that links academics with local, national and regional needs and problems to contribute to their solution. Goals * Develop higher education to train professionals framed in the concepts and demands of globalization and national and international competitiveness. * Develop a scientific and humanistic education that trains the student. * Provide strategic training in order to train a professional capable of contributing to the development of the social sectors of the country. The UMH is part of national and international organizations committed to disaster risk management and adaptation to climate change, for example, at the national level, the Interinstitutional Committee of Environmental Sciences (CICA), an alliance at the Honduran government level with the National Service for Entrepreneurship and Small Business (SENPRENDE), with various civil society institutions such as the Benemérito Cuerpo de Bomberos, Permanent Commission on Contingencies (COPECO), Association for a More Just Society (ASJ), the Honduran Council of Private Enterprise (COHEP), the Business Development Centers (CDE) and others. At the international level, the UMH is a member of the Network of Universities of the Americas and the Caribbean for Disaster Risk Reduction (REDULAC/RRD); being the creators of the Honduras Chapter, holding the presidency for 4 years, awarded the NOE Prize in the Dominican Republic in recognition of the work carried out on this topic; The University is a member of the Network of Higher Education Institutions of Latin America and the Caribbean (RiesGIRD-LAC) and currently holds the presidency of the Network. Likewise, the UMH is a member of the Inter-American University Organization (OUI) seeking to strengthen spaces for educational cooperation at a higher level in coordination with its members and other strategic allies in pursuit of a diversified offering, contribution to the SDGs and organizational excellence. The UMH is a member and has led the Association of Private Universities of Honduras (ANUPRIH) and members of the Association of Private Universities of Central America (AUPRICA)."
+   }, 
+   "members": {
+    "title": "MEMBERS",
+    "team": "UNIVERSIDAD METROPOLITANA DE HONDURAS' TEAM",
+    "coord": "COORDINATOR",
+    "button": "See more information",
+    "area": "Area of expertise", 
+    "faculty": "Faculty", 
+    "modal1-i": " Telecomunication/Business Managenent/Higher Education ", 
+    "modal1-f": " Engineering / Business Sciences ", 
+    "modal2-i": " Total Quality Control/Higher Education ", 
+    "modal2-f": "Engineering", 
+    "modal3-i": " Marketing/Higher Education ", 
+    "modal3-f": " Business Sciences ", 
+    "modal4-i": " Business Management/Higher Education ", 
+    "modal5-i": " Marketing/International Sustainable Development ", 
+    "modal5-f": " Business Sciences ", 
+    "modal6-i": " Business Management ", 
+    "modal6-f": " Business Sciences ", 
+    "modal7-i": " Higher Education with a focus on University Teaching and Curriculum Design ", 
+    "modal7-f": " Social Sciences ", 
+    "modal8-i": " Business Management/Higher Education ", 
+    "modal8-f": " Engineering / Business Sciences ",
+    "modal9-i": " Construction/Risk Management/Higher Education ", 
+    "modal9-f": " Engineering "
+   }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

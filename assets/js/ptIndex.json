@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "lang":"Alterar idioma",
+        "title": "ICoLearn", 
+        "home": "Início", 
+        "about": "Sobre o ICoLearn", 
+        "partners": "Parcerias",
+        "results": "Resultados",
+        "news": "Notícias",
+        "contact": "Contate-nos"
+    },
+    "name": {
+        "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem colaborativa e baseada na Internet para a transformação digital e crescimento sustentável | Projeto N°: 101127224"
+    }, 
+    "about": {
+        "title": "Sobre o projeto",
+        "text": "O objetivo geral do projeto é a modernização da educação superior nos países parceiros, por meio da digitalização das metodologias educacionais e da melhoria da preparação dos estudantes para a participação no crescimento sustentável, visando melhorar a transformação digital das IES na região da América Latina. As atividades e resultados do projeto ICOLearn incluem a implementação de metodologias inovadoras de aprendizagem baseadas na Internet e uma caixa de ferramentas colaborativas composta por: (1) educação baseada em redes sociais (SNE), (2) fábrica de aprendizagem (LF), (3) co-criação de materiais de aprendizagem (COLM), (4) aprendizagem baseada em jogos (GL), (5) virtualidade (V), (6) aprendizagem combinada (BL), (7) projetos integrados (IP) e (8) educação dirigida por projetos (PLE); implementação de uma abordagem inovadora para cooperação com a indústria e outras empresas, através da plataforma 'fábrica de aprendizagem' para melhorar a aprendizagem ativa associada à indústria para implementar práticas voltadas ao crescimento sustentável. Essas atividades estão organizadas por meio de cinco pacotes de trabalho (WP): WP1 - Gestão e coordenação de projetos; WP2 - Preparação e capacitação; WP3 - Design e organização; WP4 - Implementação; e WP5 - Impacto e Difusão. O ICOLearn produzirá 14 entregáveis, que consistem em 4 relatórios de gestão, 2 seminários de capacitação (como entregáveis), duas demonstrações (como entregáveis), seis estudos de caso (como entregáveis), seis 'eventos de mediação' (como entregáveis) e 6 relatórios relacionados ao design, implementação e difusão. O público-alvo são professores e estudantes. Participarão, ao todo, em seis IES do Brasil, Costa Rica e Honduras: 16 cursos e 30 unidades curriculares (disciplinas), 73 professores e todos os estudantes matriculados nos cursos abordados pelo ICOLearn."
+    },
+    "packages": {
+        "title": "Resumo dos pacotes de trabalho do projeto",
+        "pk1": "Pacote de trabalho 1",
+        "pk1-t": "Gestão e coordenação de projetos", 
+        "pk2": "Pacote de trabalho 2",
+        "pk2-t": "Preparação e treinamento",
+        "pk3": "Pacote de trabalho 3", 
+        "pk3-t": "Design e Organização",
+        "pk4": "Pacote de trabalho 4",
+        "pk4-t": "Implementação", 
+        "pk5": "Pacote de trabalho 5",
+        "pk5-t": "Impacto e difusão"
+    }, 
+    "partners": {
+        "title": "Parcerias"
+    }, 
+    "results": { 
+        "name": "RESULTADOS",
+        "r1": "Pacote de trabalho #1: resultado #1", 
+        "title1": "D1.1 - Atas das decisões dos órgãos de gestão do projeto", 
+        "subtitle": "Nível de divulgação: Sensível",
+        "r2": "Pacote de trabalho nº 1: Resultado nº 2",
+        "title2":"D1.2 Relatório de gestão do projeto do primeiro ano",
+        "r3": "Pacote de Trabalho nº 2: Resultado nº 1",
+        "title3":"D2.1 Seminário de formação em metodologias de aprendizagem, ferramentas colaborativas e baseadas na Internet",
+        "r4": "Pacote de Trabalho nº 2: Resultado nº 2",
+        "title4": "Demonstração D2.2 em UMINHO e POLITO",
+        "r5":"Pacote de Trabalho nº 2: Resultado nº 3",
+        "title5": "D2.3 Estudos de Ambiente de Trabalho",
+        "r6": "Pacote de Trabalho nº 5: Resultado nº 3",
+        "title6": "Site do projeto D5.3"
+    }, 
+    "news": { 
+        "title": "Notícias", 
+        "n1": "Notícia #1",
+        "n1-t": "As reuniões de lançamento do projeto ICoLearn ocorreram de forma virtual de 16 a 18 de janeiro de 2024. Durante o primeiro dia, foram tomadas decisões sobre os órgãos de gestão do projeto. O modelo financeiro e de gestão, assim como a revisão de todas as tarefas e prazos, foram apresentados no segundo dia. Finalmente, no último dia da reunião de lançamento, foram definidas as primeiras tarefas e responsáveis pelo projeto."
+    }, 
+    "contact": {
+        "title": "Entre em contato conosco", 
+        "admin": "Contate o nosso administrador de projetos", 
+        "page": "Contate o administrador da nossa página"
+    }, 
+    "footer": {
+        "disclaimer": "Aviso legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são exclusivamente dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade que concede a bolsa podem ser responsabilizados por eles."
+    }
+}

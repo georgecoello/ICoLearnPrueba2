@@ -1,0 +1,81 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+    "information": "GENERAL INFORMATION", 
+    "t1": "Foundation year: 1954", 
+    "t2": "Student number: 33.500", 
+    "t3": "Subject áreas:", 
+    "t4": "Exact and Earth Sciences", 
+    "t5": "Biological Sciences", 
+    "t6": "Engineering", 
+    "t7": "Health Sciences", 
+    "t8": "Agricultural Sciences", 
+    "t9": "Linguistics, Letters and Arts", 
+    "t10": "Applied Social Sciences", 
+    "t11": "Human Sciences", 
+    "t12": "Faculties name:", 
+    "t13": "College of Sciences", 
+    "t14": "College of Humanities" ,
+    "t15": "College of Technology", 
+    "t16": "College of Agricultural Sciences", 
+    "t17": "College of Medicine", 
+    "t18": "College of Pharmacy", 
+    "t19": "Dentistry and Nursing", 
+    "t20": "College of Law", 
+    "t21": "College of Education", 
+    "t22": "College of Economics", 
+    "t23": "College of Marine Sciences", 
+    "t24": "College of Culture and Arts", 
+    "t25": "College of  Physical Education and Sports", 
+    "t26": "College of  Distance Education", 
+    "t27": "Number of university campus: 8"
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "relevant": {
+    "title": "OTHER RELEVANT INFORMATION", 
+    "info": "Year: 2018 296 research groups, 284 CNPq Productivity Scholarship Holders, 1082 extension activities, 11613 internships."
+   }, 
+   "members": {
+    "title": "MEMBERS",
+    "team": "UNIVERSIDADE FEDERAL DO CEARÁ'S TEAM",
+    "button": "See more information",
+    "area": "Area of expertise", 
+    "faculty": "Faculty", 
+    "coord": "COORDINATOR",
+    "modal1-i": " Construction Management ",
+    "modal1-f": " Technology Center ",
+    "modal2-i": " Energy Efficiency, Energy Market, Power Electronics with Renewable Sources of Energy Applications ", 
+    "modal2-f": " Technology Center ", 
+    "modal3-i": " Energy and exergetic analysis of thermal systems ", 
+    "modal3-f": "Technology Center", 
+    "modal4-i": " Transport Engineering; Environmental Impacts and Transports; Logístic ",
+    "modal4-f": "Technology Center", 
+    "modal5-i": " Design methods; Digital Design; Building Information Modeling; Performance-based Design ",
+    "modal5-f": "Technology Center", 
+    "modal6-i": " Decision-making making, Social Life Cycle Assessment ", 
+    "modal6-f": "Technology Center", 
+    "modal7-i": " Data science applied to digital agriculture/beekeeping, digital transformation, and health ", 
+    "modal7-f": "Technology Center", 
+    "modal8-i": " Engineering Education (Calculus teaching), Structural stability, Pavement mechanics ",
+    "modal8-f": "Technology Center", 
+    "modal9-i": " Dynamical systems modeling and analysis; Control and optimisation of dynamical systems; Statistical modeling ", 
+    "modal9-f": "Technology Center"
+   }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

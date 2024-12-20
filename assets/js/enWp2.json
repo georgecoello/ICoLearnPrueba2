@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+    "package": {
+        "title": "Work Package 2",
+        "subtitle": "Preparation and Training", 
+        "text1": "Duration:M2-M12 Lead Beneficiary:4 - UFC Objectives:", 
+        "o1": "Provide training to the partners from Partner Countries on the underlying topics, themes, concepts, methodologies and technologies relevant for the project’s objectives and implementation.", 
+        "o2": "The topics, themes, concepts, methodologies and technologies on which the training will be provided are: 1) Education paradigms: Education 1.0, Education 2.0 and Education 3.0; 2) Pedagogical methodologies framework; 3) digital transformation in education and sustainable growth, 4) Learning methodologies internet-based and collaborative tools: social-networked based education (SNE), learning factory (LF), blended learning (BL), co-creation of learning materials (CoLM), game-based learning (GL), virtuality (V), integrated projects (IP) and project-led-education (PLE).", 
+        "o3": "Demonstration in real-life of the learning methodologies internet-based and collaborative tools which will be implemented in Partner Countries partners’ HEI: 1) UMINHO will demonstrate its practice in SNE, LF, AL, CoLM, GL, V, IP and PLE; 2) POLITO will demonstrate its practice in blended learning and cooperation with industry.",
+        "o4": "Preparation of a “desk study” of the learning methodologies internet-based and collaborative tools, to be applied in Partner Countries partners’ HEI, in the context of digital transformation and sustainable growth. This study will represent a benchmarking study and it will serve as a reference for evaluation of the project achievements within the project quality management.", 
+        "o5": "The training activity will be held in parallel, in two formats for two groups of participants: 1) in presence at the Programme Countries HEI, and 2) remotely over video-conference system. Each group of the participants is constituted from representatives of all Partner Countries partners’ HEI, due to limited resources for travels and large number of teachers involved from the Partner Countries partners’ HEI.",  
+        "deliverables": "Deliverables:", 
+        "d1": "D2.1 - Training seminar on learning methodologies internet-based and collaborative tools", 
+        "d2": "D2.2 - Demonstration", 
+        "d3": "D2.3 - Desk Study"
+    }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

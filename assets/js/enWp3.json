@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+    "package": {
+        "title": "Work Package 3",
+        "subtitle": "Design and Organization", 
+        "text1": "Duration:M13 – M24 Lead Beneficiary:6- UCR Objectives:", 
+        "o1": "Define the detailed procedures and programs for implementation of learning methodologies internet-based and collaborative tools in the selected subjects (curricula units) at the Partner Countries HEI, for each curricula unit involved.", 
+        "o2": "Selection of enterprises which will provide tasks/assignments for students for LF and BL.", 
+        "o3": "Detailed specification of tasks/assignments for implementation of learning methodologies internet-based and collaborative tools in the selected subjects (curricula units), at the Partner Countries partners’ universities for application within the each subject (curricula unit).", 
+        "o4": "Scheduling plan for the teaching and students work on pre-defined tasks/assignments along the semester, for implementation, and realization, of the learning methodologies internet-based and collaborative tools for each of the selected subjects (curricula units), at the Partner Countries partners’ universities.",  
+
+        "deliverables": "Deliverables",
+        "d1": "D3.1 - Tool application design and procedure",
+        "d2": "D3.2 - 'Brokering Event'",
+        "d3": "D3.3 - Assignments and Scheduling plan"
+    }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

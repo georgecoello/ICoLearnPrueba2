@@ -1,0 +1,81 @@
+{
+    "nav": {
+    "lang":"Alterar idioma",
+    "title": "ICOLearn",
+    "home": "Casa",
+    "about": "SOBRE ICoLearn",
+    "partners": "Parceiros",
+    "results": "Resultados",
+    "news": "Notícias",
+    "contact": "Contacte-nos"
+    },
+    "name": {
+    "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem baseadas na Internet e na colaboração para a transformação digital e o crescimento sustentável |<b> Projecto Nº: 101127224"
+    },
+    "accordion": {
+    "information": "INFORMAÇÃO GERAL",
+    "t1": "Ano de fundação: 1954",
+    "t2": "Nº de aluno: 33.500",
+    "t3": "Áreas temáticas:",
+    "t4": "Ciências Exatas e da Terra",
+    "t5": "Ciências Biológicas",
+    "t6": "Engenharia",
+    "t7": "Ciências da Saúde",
+    "t8": "Ciências Agrárias",
+    "t9": "Linguística, Letras e Artes",
+    "t10": "Ciências Sociais Aplicadas",
+    "t11": "Ciências Humanas",
+    "t12": "Nome das faculdades:",
+    "t13": "Faculdade de Ciências",
+    "t14": "Faculdade de Humanidades" ,
+    "t15": "Faculdade de Tecnologia",
+    "t16": "Faculdade de Ciências Agrárias",
+    "t17": "Faculdade de Medicina",
+    "t18": "Faculdade de Farmácia",
+    "t19": "Medicina Dentária e Enfermagem",
+    "t20": "Faculdade de Direito",
+    "t21": "Faculdade de Educação",
+    "t22": "Faculdade de Economia",
+    "t23": "Faculdade de Ciências Marinhas",
+    "t24": "Faculdade de Cultura e Artes",
+    "t25": "Faculdade de Educação Física e Desporto",
+    "t26": "Faculdade de Educação a Distância",
+    "t27": "Número de campus universitário: 8"
+    },
+    "visit": {
+    "title": "VISITE-NOS!"
+    },
+    "relevant": {
+    "title": "OUTRAS INFORMAÇÕES RELEVANTES",
+    "info": "Ano: 2018 296 grupos de investigação, 284 Bolseiros de Produtividade CNPq, 1.082 atividades de extensão, 11.613 estágios."
+    },
+    "members": {
+    "title": "MEMBROS",
+    "team": "EQUIPA DA UNIVERSIDADE FEDERAL DO CEARÁ",
+    "button": "Ver mais informações",
+    "area": "Área de atuação",
+    "faculty": "Faculdade",
+    "coord": "COORDENADOR",
+    "modal1-i": "Gestão de Construção",
+    "modal1-f": "Centro de Tecnologia",
+    "modal2-i": "Eficiência Energética, Mercado de Energia, Eletrónica de Potência com Fontes Renováveis ​​de Aplicações Energéticas",
+    "modal2-f": "Centro de Tecnologia",
+    "modal3-i": "Análise energética e exergética de sistemas térmicos",
+    "modal3-f": "Centro de Tecnologia",
+    "modal4-i": "Engenharia de Transportes; Impactes Ambientais e Transportes; Logística",
+    "modal4-f": "Centro de Tecnologia",
+    "modal5-i": "Métodos de design; Design Digital; Modelação de Informação de Construção; Design Baseado no Desempenho",
+    "modal5-f": "Centro de Tecnologia",
+    "modal6-i": "Tomada de decisão, Avaliação do Ciclo de Vida Social",
+    "modal6-f": "Centro de Tecnologia",
+    "modal7-i": "Ciência de dados aplicada à agricultura/apicultura digital, transformação digital e saúde",
+    "modal7-f": "Centro de Tecnologia",
+    "modal8-i": " Ensino de Engenharia (Ensino do Cálculo), Estabilidade Estrutural, Mecânica de Pavimentos",
+    "modal8-f": "Centro de Tecnologia",
+    "modal9-i": "Modelação e análise de sistemas dinâmicos; Controlo e optimização de sistemas dinâmicos; Modelação estatística",
+    "modal9-f": "Centro de Tecnologia"
+    },
+    "footer": {
+    "disclaimer": "Isenção de responsabilidade: Financiado pela União Europeia. Os pontos de vista e opiniões expressos são, no entanto, apenas os do(s) autor(es) e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente podem ser responsabilizadas para os mesmos."
+    }
+   }

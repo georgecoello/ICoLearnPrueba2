@@ -1,0 +1,57 @@
+{
+    "nav": {
+        "lang":"Cambia lingua",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "Chi siamo ICoLearn", 
+        "partners": "Partner",
+        "results": "Risultati",
+        "news": "Novità",
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumento metodologico di apprendimento collaborativo e basato su Internet per la trasformazione digitale e la crescita sostenibile | Progetto N°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMAZIONI GENERALI", 
+    "t1": "Anno di fondazione: 1906: Il Politecnico di Torino fu fondato ufficialmente nel 1906, anche se le sue radici risalgono ad epoche precedenti. Si è evoluto dalla precedente Scuola Tecnica degli Ingegneri (fondata nel 1859)",
+    "t2": "Numero di studenti: circa 35.000 studenti",
+    "t3": "Aree tematiche:",
+    "t4": "Ingegneria: Aerospaziale, Automotive, Biomedica, Chimica, Civile, Informatica, Elettrica, Elettronica, Energetica, Ambientale, Gestionale, Meccanica, Meccatronica, Nucleare, Fisica, Telecomunicazioni",
+    "t5": "Architettura",
+    "t6": "Progettazione",
+    "t7": "Pianificazione Territoriale" ,
+    "t8": "Facoltà (Dipartimenti): ",
+    "t9": "Dipartimento di Architettura e Design (DAD)",
+    "t10": "Dipartimento dell'Energia (DENERG)",
+    "t11": "Dipartimento di Elettronica e Telecomunicazioni (DET)",
+    "t12": "Dipartimento di Ingegneria dell'Ambiente, del Territorio e delle Infrastrutture (DIATI)",
+    "t13": "Dipartimento di Scienze Applicate e Tecnologiche (DISAT)",
+    "t14": "Dipartimento di Ingegneria Gestionale e della Produzione (DIGEP)",
+    "t15": "Dipartimento di Ingegneria Meccanica e Aerospaziale (DIMEAS)",
+    "t16": "Dipartimento Interdipartimentale di Studi e Pianificazione Regionale, Urbanistica (DIST)",
+    "t17": "Numero di campus universitari: I principali campus di Torino sono:",
+    "t18": "Campus Principale (Cittadella Politecnica): Il cuore storico dell'Università.",
+    "t19": "Lingotto: Un altro campus significativo.",
+    "t20": "Cittadella del Design",
+    "t21": "Castello del Valentino: un bellissimo castello storico che funge anche da campus ed è elencato come patrimonio mondiale dell'UNESCO."
+   },
+   "visit": {
+    "title": "VISITACI!"
+   }, 
+   "members": {
+    "title": "MEMBRI",
+    "team": "TEAM POLITECNICO DI TORINO",
+    "button": "Vedi maggiori informazioni",
+    "area": "Area di specializzazione", 
+    "faculty": "Facoltà", 
+    "modal1-i": "Produzione", 
+    "modal1-f": "DIGEP",
+    "modal2-i": "Produzione", 
+    "modal2-f": "DIGEP"
+   },
+   
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono tuttavia quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere considerati responsabili."
+    }
+}

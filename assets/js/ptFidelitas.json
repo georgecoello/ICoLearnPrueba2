@@ -1,0 +1,81 @@
+{
+    "nav": {
+        "lang":"Alterar idioma",
+        "title": "ICoLearn", 
+        "home": "Início", 
+        "about": "SOBRE O ICoLearn", 
+        "partners": "Parners",
+        "results": "Resultados",
+        "news": "Novidades",
+        "contact": "Contate-nos"
+    },
+    "name": {
+        "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem colaborativa e baseada na Internet para a transformação digital e crescimento sustentável | Projeto N°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMAÇÕES GERAIS", 
+    "t1": "Ano de criação: 1980",
+    "t2": "Áreas temáticas:",
+    "t3": "Engenharia e Arquitetura",
+    "t4": "Computação",
+    "t5": "Ciências Sociais",
+    "t6": "Ciências Económicas",
+    "t7": "Educação científica",
+    "t8": "Nome das faculdades:",
+    "t9": "Faculdade de Engenharia e Arquitectura",
+    "t10": "Faculdade de Ciência da Computação",
+    "t11": "Faculdade de Ciências Sociais",
+    "t12": "Faculdade de Ciências Económicas",
+    "t13": "Faculdade de Ciências da Educação",
+    "t14": "Número do Campus Universitário: Sede (San Pedro), Sede Heredia"
+   },
+   "visit": {
+    "title": "VENHA NOS VISITAR!"
+   }, 
+   "relevant": {
+    "title": "OUTRAS INFORMAÇÕES RELEVANTES",
+    "i1": "Na Fidélitas formamos um profissional completo e por isso promovemos o desenvolvimento de competências essenciais, que são um conjunto de aptidões e competências que permitem às pessoas enfrentar com sucesso os desafios e exigências da vida pessoal, académica e profissional. L ' essential As competências são aplicáveis ​​em vários contextos e situações, desempenham um papel fundamental no desenvolvimento pessoal e na aprendizagem contínua.", 
+    "i2": "Investigação: Aprenderá a aumentar o seu conhecimento recolhendo, organizando e analisando informação.",
+    "i3": "Comunicação assertiva: comunicará melhor, pois poderá dar a conhecer a sua opinião sem violar os direitos dos seus colegas.",
+    "i4": "Desenvolvimento do pensamento criativo: irá resolver problemas no contexto da sua aprendizagem de forma original, flexível e fluída.",
+    "i5": "Resolução Criativa de Problemas: Utilizará a lógica para encontrar uma solução que vá ao encontro dos objetivos definidos. Terá também a capacidade de monitorizar e avaliar a implementação dessa solução criativa.",
+    "i6": "Trabalhar sob pressão: Manterá o seu ritmo de forma eficiente e eficaz ao realizar tarefas ou atividades.",
+    "i7": "Trabalho em equipa: Trabalhará com os seus colegas em prol de um propósito e objetivo comum.",
+    "i8": "Tomada de decisão baseada em dados: aprenderá a obter e interpretar dados, métricas e factos reais para tomar decisões e encontrar soluções para problemas.",
+    "i9": "Utilização de ferramentas tecnológicas: é a capacidade de avaliar, criar e comunicar informação de forma segura e ética utilizando tecnologias de informação como dispositivos móveis, computadores e software.",
+    "i10": "O acima exposto é conseguido através de “Aprender fazendo”. <br> Isto resume a metodologia STEM+E com que todos os cursos da Universidade Fidélitas são ministrados e podemos dizer que será tudo menos aborrecido, uma vez que é uma metodologia de ensino ativa e dinâmica que o desafiará a levar o seu engenho a limites que nunca imaginou. Será capaz de melhorar as suas competências para aumentar a sua capacidade de trabalho em equipa e no contexto de uma abordagem construtivista que já existe em algo novamente. . e inovador."
+   },
+   "members": {
+    "title": "MEMBROS",
+    "button": "Ver Mais Informações",
+    "area": "Área de especialização", 
+    "faculty": "Faculdade", 
+    "coord": "COORDENADOR", 
+    "team": "EQUIPA UNIVERSITÁRIA FIDELITAS", 
+    "modal1-i": " Engenharia de Software e Banco de Dados. ", 
+    "modal1-f": " Ciências da Computação ", 
+    "modal2-i": " Processamento de Materiais e Design Mecânico ", 
+    "modal2-f": " Engenharia Elétrica e Afins ", 
+    "modal3-i": " Química de materiais, materiais para pavimentação, sustentabilidade. ", 
+    "modal3-f": " Engenharia Civil ", 
+    "modal4-i": " Tecnologia do concreto ", 
+    "modal4-f": " Engenharia Civil ",
+    "modal5-i": " Habilidades de gestão, gestão de processos, padronização ", 
+    "modal5-f": " Engenharia Industrial ", 
+    "modal6-i": " Engenharia geotécnica ",
+    "modal6-f": " Engenharia Civil ", 
+    "modal7-i": " Qualidade Acadêmica/Novas Tecnologias e Competências Digitais ", 
+    "modal7-f": " Departamento de Qualidade Acadêmica ", 
+    "modal8-i": " Engenharia de transportes, ciência de materiais, pavimentação ", 
+    "modal8-f": " Engenharia Civil ", 
+    "modal9-i": " Física ", 
+    "modal9-f": " Ciências Básicas ", 
+    "modal10-i": " Engenharia industrial / Matemática ", 
+    "modal10-f": " Engenharia Industrial ", 
+    "modal11-i": " Sistemas de computação ", 
+    "modal11-f": " Engenharia de Sistemas Computacionais "
+   }, 
+    "footer": {
+        "disclaimer": "Aviso legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são exclusivamente dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente podem ser considerados responsáveis por eles."
+    }
+}

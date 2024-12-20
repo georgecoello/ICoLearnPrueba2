@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "results": "Results",
+        "partners": "Partners",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+        "information": "GENERAL INFORMATION", 
+        "text1": "Public university with administrative and financial autonomy.", 
+        "text2": "It was founded in Aug 26th, 1940.", 
+        "text3": "Position 19th in best universities en Latin America.", 
+        "text4": "Renowned as a social mobility factor in CR’s society", 
+        "text5": "The main campus is located in center of San José, Costa Rica.", 
+        "text6": "It has 12 locations, spread out along the CR territory", 
+        "text7": "Student population 43.000", 
+        "text8": "Yearly admission 9.500, Yearly graduations 6.500", 
+        "text9": "13 Faculties, 48 Schools, 538 Academic options"
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "relevant": {
+    "title": "OTHER RELEVANT INFORMATION",
+    "info": " The main campus is located in center of San José, Costa Rica. It has 12 locations, spread out along the CR territory. The larger ones are called “Sedes” and the smaller ones are called “Recintos”: 1) San José, 2) San Ramón, 3) Grecia, 4) Liberia, 5) Santa Cruz, 6) Puntarenas, 7) Limón, 8) Guápiles, 9) Turrialba, 10) Golfito, 11) Alajuela, 12) Paraíso."
+   },
+   "members": {
+    "title": "MEMBERS",
+    "team": "UNIVERSIDAD DE COSTA RICAS'S TEAM",
+    "coord": "COORDINATOR",
+    "button": "See more information",
+    "area": "Area of expertise", 
+    "faculty": "Faculty", 
+    "modal1-i": " Project and Construction Management, Public Policy", 
+    "modal1-f": " Civil Engineering School ", 
+    "modal2-i": " Project and Construction Management, Public Policy", 
+    "modal2-f": " Civil Engineering School ", 
+    "modal3-i": " Structural Engineering ",
+    "modal3-f": " Civil Engineering School ",
+    "modal4-i": " Project and Construction Management ", 
+    "modal4-f": "Civil Engineering School", 
+    "modal5-i": " Hydraulics and Hydrology ", 
+    "modal5-f": "Civil Engineering School", 
+    "modal6-i": " Transport Planning ",
+    "modal6-f": " Civil Engineering School", 
+    "modal7-i": " Environmental Engineering ", 
+    "modal7-f": "Civil Engineering School", 
+    "modal8-i": " Geotechnical Engineering ", 
+    "modal8-f": " Civil Engineering School ", 
+    "modal9-i": " Civil Engineering ", 
+    "modal9-f": " Civil Engineering School"
+
+   }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

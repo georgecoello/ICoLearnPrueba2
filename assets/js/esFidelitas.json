@@ -1,0 +1,81 @@
+{
+    "nav": {
+        "lang":"Cambiar Idioma",
+        "title": "ICoLearn", 
+        "home": "Inicio", 
+        "about": "ACERCA DE ICoLearn", 
+        "partners": "Socios",
+        "results": "Resultados",
+        "news": "Novedades",
+        "contact": "Contactanos"
+    },
+    "name": {
+        "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo y basado en Internet para la transformación digital y el crecimiento sostenible | Proyecto N°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMACION GENERAL", 
+    "t1": "Año de fundación: 1980", 
+    "t2": "Áreas Temáticas:", 
+    "t3": "Ingenierías y Arquitectura", 
+    "t4": "Ciencias de la Computación", 
+    "t5": "Ciencias Sociales", 
+    "t6": "Ciencias Económicas", 
+    "t7": "Ciencias de la Educación", 
+    "t8": "Nombre de las facultades:",
+    "t9": "Facultad de Ingenierías y Arquitectura", 
+    "t10": "Facultad de Ciencias de la Computación", 
+    "t11": "Facultad de Ciencias Sociales", 
+    "t12": "Facultad de Ciencias Económicas",  
+    "t13": "Facultad de Ciencias de la Educación", 
+    "t14": "Número de Campus Universitario: Sede Central (San Pedro), Sede Heredia"
+   },
+   "visit": {
+    "title": "¡VISITANOS!"
+   }, 
+   "relevant": {
+    "title": "OTRA INFORMACIÓN RELEVANTE",
+    "i1": "En Fidélitas formamos un profesional integral y por ello promovemos el desarrollo de las competencias esenciales, que son un conjunto de capacidades y competencias que permiten a las personas afrontar con éxito los retos y exigencias de la vida personal, académica y profesional. Las competencias esenciales son aplicables en diversos contextos y situaciones, juegan un papel clave en el desarrollo personal y el aprendizaje continuo. A continuación, te las explicamos:",
+    "i2": "Investigación: Aprenderás a aumentar tus conocimientos recopilando, organizando y analizando información.", 
+    "i3": "Comunicación asertiva: Te comunicarás mejor, ya que podrás dar a conocer tu opinión sin vulnerar los derechos de tus compañeros.", 
+    "i4": "Desarrollo del pensamiento creativo: Resolverás problemas dentro del contexto de tu aprendizaje de forma original, flexible y fluida.",
+    "i5": "Resolución creativa de problemas: Utilizarás la lógica para encontrar una solución que cumpla con los objetivos que te propongas. Incluso tendrás la capacidad de supervisar y evaluar la implementación de esa solución creativa.", 
+    "i6": "Trabajar bajo presión: Mantendrás tu ritmo eficiente y eficaz mientras realizas tareas o actividades.", 
+    "i7": "Trabajo en equipo: Trabajarás con tus compañeros en un propósito y objetivo común.", 
+    "i8": "Toma de decisiones basada en datos: Aprenderás a obtener e interpretar datos, métricas y hechos reales para tomar decisiones y encontrar solución a los problemas.", 
+    "i9": "Uso de herramientas tecnológicas: Es la capacidad de evaluar, crear y comunicar información de forma segura y ética utilizando tecnologías informáticas como dispositivos móviles, computadoras y software.",
+    "i10": "Lo anterior se consigue “Aprendiendo haciendo”. <br> Así se resume la Metodología STEM+E bajo la que se imparten todos los cursos de Universidad Fidélitas y te podemos adelantar que te resultará de todo menos aburrida, pues se trata de una metodología de enseñanza activa y dinámica que te retará a llevar tu ingenio hasta límites que jamás imaginaste. Podrás potenciar tus habilidades para aumentar tu capacidad de trabajo en equipo y en el contexto de un enfoque constructivista; te hace transformar algo que ya existe en algo nuevo e innovador."
+   },
+   "members": {
+    "title": "MIEMBROS",
+    "button": "Ver Mas Informacion",
+    "area": "Área de especialización", 
+    "faculty": "Facultad", 
+    "coord":"COORDINADOR", 
+    "team": "EQUIPO DE FIDÉLITAS UNIVERSIDAD",
+    "modal1-i": " Ingeniería de Software y Bases de Datos. ", 
+    "modal1-f": " Ciencias de la Computación ", 
+    "modal2-i": " Procesamiento de Materiales y Diseño Mecánico ", 
+    "modal2-f": " Ingeniería Eléctrica y Afines ", 
+    "modal3-i": " Química de materiales, materiales para pavimentos, sostenibilidad. ", 
+    "modal3-f": " Ingeniería civil ", 
+    "modal4-i": " Tecnología del hormigón ", 
+    "modal4-f": " Ingeniería civil ",
+    "modal5-i": " Habilidades de gestión, gestión de procesos, estandarización ", 
+    "modal5-f": " Ingenieria Industrial ", 
+    "modal6-i": " Ingeniería geotécnica ",
+    "modal6-f": " Ingeniería civil ", 
+    "modal7-i": " Calidad Académica/Nuevas Tecnologías y Competencias Digitales ", 
+    "modal7-f": " Departamento de Calidad Académica ", 
+    "modal8-i": " Ingeniería de transporte, ciencia de materiales, pavimentos ", 
+    "modal8-f": " Ingeniería civil ", 
+    "modal9-i": " Física ", 
+    "modal9-f": " Ciencias básicas ", 
+    "modal10-i": " Ingeniería industrial / Matemáticas ", 
+    "modal10-f": " Ingeniería industrial ", 
+    "modal11-i": " Sistemas informáticos ", 
+    "modal11-f": " Ingeniería de sistemas informáticos "
+   }, 
+    "footer": {
+        "disclaimer": "Aviso legal: Financiado por la Unión Europea. Las opiniones y puntos de vista expresados ​​son, sin embargo, los de los autores únicamente y no reflejan necesariamente los de la Unión Europea. Ni la Unión Europea ni la autoridad que otorga la subvención pueden ser consideradas responsables de ellos."
+    }
+}

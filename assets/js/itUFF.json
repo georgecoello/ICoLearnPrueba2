@@ -1,0 +1,57 @@
+{
+    "nav": {
+        "lang":"Cambia lingua",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "Chi siamo ICoLearn",
+        "partners": "Partner", 
+        "results": "Risultati", 
+        "news": "Novità", 
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumento metodologico di apprendimento collaborativo e Internet per la trasformazione digitale e la crescita sostenibile |<b> Progetto N.°: 101127224"
+    }, 
+   "accordion": {
+    "information": "Informazioni Generali", 
+    "t1": "Anno di Fondazione: fondato nel 1960 come università federale attraverso la fusione di diversi istituti di istruzione superiore a Niterói e nelle aree vicine.",
+    "t2": "Ubicazione: il campus principale è a Niterói, con unità accademiche in altre città dello stato di Rio de Janeiro, come Volta Redonda, Campos dos Goytacazes e Nova Friburgo.",
+    "t3": "Classificazione: è una delle principali università pubbliche in Brasile, riconosciuta per i suoi progetti di eccellenza e ricerca accademica.",
+    "t4": "Aree accademiche:",
+    "t5": "Ciências Exatas e Naturais",
+    "t6": "Humanities",
+    "t7": "Ingegneria",
+    "t8": "Ciências Sociais e Econômicas",
+    "t9": "Ciências da Saúde"
+   },
+   "visit": {
+    "title": "VISITACI!"
+   }, 
+   "members": {
+    "title": "MEMBRI",
+    "button": "Vedi maggiori informazioni",
+    "coord": "COORDINATORE",
+    "team": "SQUADRA UNIVERSITARIA FEDERALE FLUMINENSE", 
+    "area": "Area di specializzazione", 
+    "faculty": "Facoltà", 
+    "modal1-i": "Ingegneria e Ingegneria dei Trasporti", 
+    "modal1-f": "Ingegneria Civile", 
+    "modal2-i": "Ingegneria del Prodotto, Sviluppo del Prodotto e Gestione della Qualità. Attualmente la mia area di ricerca riguarda le tecniche utilizzate nei laboratori di prototipazione, dove pratico stampa 3D, progettazione di prodotto, taglio laser, tra le altre tecniche. Ho lavorato su progetti nelle aree della tecnologia assistiva e dei prodotti destinati ai produttori agricoli familiari.",
+    "modal2-f": "Facoltà di Ingegneria, Dipartimento di Ingegneria della Produzione, Universidade Federal Fluminense",
+    "modal3-i": "Gestione della qualità, Gestione dei progetti, Gestione della catena di approvvigionamento.",
+    "modal3-f": "Facoltà di Ingegneria, Dipartimento di Ingegneria della Produzione, Universidade Federal Fluminense.",
+    "modal4-i": "Attivo Intangibile; ESG (Ambientale, Sociale e di Governance); Analisi del Ciclo di Vita del Prodotto",
+    "modal4-f": "Dipartimento di Scienze Attuariali e Finanza, Universidade Federal Fluminense.",
+    "modal5-i": "Ergonomia, Fattori Umani, Salute e Sicurezza sul Lavoro, Antropometria",
+    "modal5-f": "Universidade Federal Fluminense, Facoltà di Ingegneria, Dipartimento di Ingegneria della Produzione.",
+    "modal6-i": "Modellazione per la Gestione della Sicurezza sul Lavoro/Gestione delle Costruzioni Civili",
+    "modal6-f": "Facoltà di Ingegneria, Dipartimento di Ingegneria Agricola e Ambientale - Universidade Federal Fluminense",
+    "modal7-i": "Trattamento e utilizzo dei rifiuti agricoli; Agroecologia e Permacultura",
+    "modal7-f": "Facoltà di Ingegneria, Dipartimento di Ingegneria Agricola e Ambientale - Universidade Federal Fluminense",
+    "modal8-i": "Strategia, Gestione della Qualità, Gestione dei Progetti, Gestione delle Operazioni",
+    "modal8-f": "Dipartimento di Ingegneria della Produzione - Facoltà di Ingegneria"
+   }, 
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Tuttavia, le opinioni e i punti di vista espressi sono esclusivamente quelli dell'autore e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità erogatrice del finanziamento possono essere considerati responsabili."
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "nav": {
+        "lang":"Cambiar Idioma",
+    "title": "ICoLearn",
+    "home": "Inicio",
+    "about": "ACERCA DE ICoLearn",
+    "partners": "Socios",
+    "results": "Resultados",
+    "news": "Novedades",
+    "contact": "Contáctenos"
+    },
+    "name": {
+    "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo e Internet para la transformación digital y el crecimiento sostenible |<b> Proyecto N.º: 101127224"
+    },
+    "accordion": {
+    "information": "INFORMACIÓN GENERAL",
+    "t1": "Año de fundación: 1954",
+    "t2": "Número de estudiantes: 33.500",
+    "t3": "Áreas temáticas:",
+    "t4": "Ciencias exactas y de la Tierra",
+    "t5": "Ciencias biológicas",
+    "t6": "Ingeniería",
+    "t7": "Ciencias de la Salud",
+    "t8": "Ciencias Agrarias",
+    "t9": "Lingüística, Letras y Artes",
+    "t10": "Ciencias Sociales Aplicadas",
+    "t11": "Ciencias Humanas",
+    "t12": "Nombre de la Facultad:",
+    "t13": "Facultad de Ciencias",
+    "t14": "Facultad de Humanidades",
+    "t15": "Facultad de Tecnología",
+    "t16": "Facultad de Ciencias Agrarias",
+    "t17": "Facultad de Medicina",
+    "t18": "Facultad de Farmacia",
+    "t19": "Odontología y Enfermería",
+    "t20": "Facultad de Derecho",
+    "t21": "Facultad de Educación",
+    "t22": "Facultad de Economía",
+    "t23": "Facultad de Ciencias del Mar",
+    "t24": "Facultad de Cultura y Artes",
+    "t25": "Facultad de Educación Física y Deportes",
+    "t26": "Facultad de Educación a Distancia",
+    "t27": "Número de campus universitarios: 8"
+    },
+    "visit": {
+    "title": "¡VISÍTENOS!"
+    },
+    "relevant": {
+    "title": "OTRAS INFORMACIONES RELEVANTES",
+    "info": "Año: 2018 296 grupos de investigación, 284 Becarios de Productividad CNPq, 1082 actividades de extensión, 11613 pasantías."
+    },
+    "members": {
+    "title": "INTEGRADOS",
+    "team": "EQUIPO DE LA UNIVERSIDAD FEDERAL DE CEARÁ",
+    "button": "Ver más información",
+    "area": "Área de actuación",
+    "faculty": "Facultad",
+    "coord": "COORDINADOR",
+    "modal1-i": "Gestión de la Construcción",
+    "modal1-f": "Centro Tecnológico",
+    "modal2-i": "Eficiencia Energética, Mercado Energético, Aplicaciones de Electrónica de Potencia con Fuentes Renovables de Energía",
+    "modal2-f": "Centro Tecnológico",
+    "modal3-i": "Análisis energético y exergético de sistemas térmicos",
+    "modal3-f": "Centro Tecnológico",
+    "modal4-i": "Ingeniería de Transporte; Impactos Ambientales y Transportes; Logística",
+    "modal4-f": "Centro Tecnológico",
+    "modal5-i": "Métodos de diseño; Diseño Digital; Building Information Modelado; Diseño basado en el rendimiento ",
+    "modal5-f": "Centro tecnológico",
+    "modal6-i": "Toma de decisiones, Análisis del ciclo de vida social ",
+    "modal6-f": "Centro tecnológico",
+    "modal7-i": "Ciencia de datos aplicada a la agricultura/apicultura digital, transformación digital y salud ",
+    "modal7-f": "Centro tecnológico",
+    "modal8-i": "Educación en ingeniería (enseñanza del cálculo), estabilidad estructural, mecánica de pavimentos ",
+    "modal8-f": "Centro tecnológico",
+    "modal9-i": "Modelado y análisis de sistemas dinámicos; Control y optimización de sistemas dinámicos; Modelado estadístico ",
+    "modal9-f": "Centro tecnológico"
+    },
+    "footer": {
+    "disclaimer": "Descargo de responsabilidad: Financiado por la Unión Europea. Sin embargo, las opiniones y puntos de vista expresados ​​son solo los del autor y no necesariamente reflejan los de la Unión Europea. Ni la Unión Europea ni la autoridad concedente pueden ser consideradas responsables de ellos."
+    }
+    }

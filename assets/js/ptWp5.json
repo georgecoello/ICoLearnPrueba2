@@ -1,0 +1,31 @@
+{
+    "nav": {
+        "lang":"Alterar idioma",
+        "title": "ICoLearn", 
+        "home": "Início", 
+        "about": "SOBRE O ICoLearn", 
+        "results": "Resultados",
+        "partners": "Parceiros",
+        "news": "Novidades",
+        "contact": "Contate-nos"
+    },
+    "name": {
+        "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem colaborativa e baseada na Internet para a transformação digital e o crescimento sustentável | Projeto N.º: 101127224"
+    }, 
+    "package": {
+        "title": "Pacote de trabalho 5",
+        "subtitle": "Impacto e Difusão",
+        "text1": "Duração: M1 – M36. Beneficiário principal: 3 - FLUMINENSE. Objetivos:", 
+        "o1": "O WP5 tem como objetivo importante (1) a avaliação do impacto, a definição do plano de sustentabilidade e exploração para aumentar o impacto, e (2) a difusão dos resultados do projeto, durante a vida do projeto, bem como além de sua conclusão.", 
+        "o2":"Publicação do site do projeto.", 
+        "o3":  "Publicação do site do projeto. Publicação de materiais de formação e materiais promocionais do projeto", 
+        "o4":  "Organização de reuniões com o público em geral para apresentar os resultados do projeto, uma reunião por instituição de ensino superior do país parceiro.", 
+        "o5": "Publicação de artigos em uma conferência científica internacional ao final do projeto.",
+        "deliverables": "Entregáveis:", 
+        "d1": "D5.1 - Materiais de difusão do projeto.", 
+        "d2": "D5.2 - Plano de sustentabilidade e exploração"
+    }, 
+    "footer": {
+        "disclaimer": "Aviso Legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são exclusivamente dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente podem ser responsabilizadas por eles."
+    }
+}

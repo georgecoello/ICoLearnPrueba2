@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "lang":"Cambia lingua",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "Chi siamo ICoLearn", 
+        "partners": "Partner", 
+        "results": "Risultati", 
+        "news": "Novità", 
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumenti per metodologie di apprendimento collaborativo e basato su Internet per la trasformazione digitale e la crescita sostenibile | Progetto n°: 101127224"
+    }, 
+    "about": {
+        "title": "Sul progetto",
+        "text": "L'obiettivo generale del progetto è la modernizzazione dell'istruzione superiore nei paesi partner, attraverso la digitalizzazione delle metodologie educative e il miglioramento della preparazione degli studenti per la partecipazione alla crescita sostenibile, per migliorare la trasformazione digitale delle HEI nella regione dell'America Latina. Le attività e i risultati del progetto ICOLearn includono l'implementazione di metodologie innovative di apprendimento basate su Internet e una cassetta degli attrezzi di collaborazione composta da: (1) educazione basata su social network (SNE), (2) fabbrica di apprendimento (LF), (3) co-creazione di materiali di apprendimento (COLM), (4) apprendimento basato sul gioco (GL), (5) virtualità (V), (6) apprendimento misto (BL), (7) progetti integrati (IP) e (8) educazione guidata da progetti (PLE); implementazione di un approccio innovativo per la cooperazione con l'industria e altre imprese, tramite la piattaforma 'fabbrica di apprendimento' per migliorare l'apprendimento attivo associato all'industria per implementare pratiche orientate alla crescita sostenibile. Queste attività sono organizzate attraverso i cinque pacchetti di lavoro (WP): WP1 - Gestione e coordinamento del progetto; WP2 - Preparazione e formazione; WP3 - Progettazione e organizzazione; WP4 - Implementazione; e WP5 - Impatto e diffusione. ICOLearn produrrà 14 deliverable che consistono in 4 report di gestione, 2 seminari di formazione (come deliverable), due dimostrazioni (come deliverable), sei studi desk (come deliverable), sei 'eventi di mediazione' (come deliverable), e 6 report relativi alla progettazione, implementazione e diffusione. Il gruppo target sono docenti e studenti. Parteciperanno in totale, in sei IES di Brasile, Costa Rica e Honduras: 16 corsi e 30 unità curricolari (materie), 73 docenti e tutti gli studenti iscritti ai corsi trattati da ICoLearn."
+    },
+    "packages": {
+        "title": "Sintesi dei pacchetti di lavoro del progetto",
+        "pk1": "Pacchetto di lavoro 1",
+        "pk1-t": "Gestione e coordinamento del progetto", 
+        "pk2": "Pacchetto di lavoro 2",
+        "pk2-t": "Preparazione e formazione",
+        "pk3": "Pacchetto di lavoro 3", 
+        "pk3-t": "Progettazione e Organizzazione",
+        "pk4": "Pacchetto di lavoro 4",
+        "pk4-t": "Implementazione", 
+        "pk5": "Pacchetto di lavoro 5",
+        "pk5-t": "Impatto e diffusione"
+    }, 
+    "partners": {
+        "title": "Partnership"
+    }, 
+    "results": { 
+        "name": "RISULTATI",
+        "r1": "Pacchetto di lavoro #1: risultato #1", 
+        "title1": "D1.1 - Verbali delle decisioni degli organi di gestione del progetto", 
+        "subtitle": "Livello di diffusione: Sensibile",
+        "r2": "Pacchetto di lavoro#1: Risultato#2",
+        "title2": "D1.2 Rapporto sulla gestione del progetto del primo anno",
+        "r3": "Pacchetto di lavoro#2: Risultato#1",
+        "title3":"D2.1 Seminario di formazione sulle metodologie di apprendimento, sugli strumenti collaborativi e basati su Internet",
+        "r4": "Pacchetto di lavoro#2: Risultato#2",
+        "title4": "Dimostrazione D2.2 a UMINHO e POLITO",
+        "r5": "Pacchetto di lavoro#2: Risultato#3",
+        "title5": "D2.3 Studi sul desktop",
+        "r6": "Pacchetto di lavoro#5: Risultato#3",
+        "title6": "Sito web del progetto D5.3"
+    }, 
+    "news": { 
+        "title": "Notizie", 
+        "n1": "Notizia #1",
+        "n1-t": "Le riunioni di lancio del progetto ICoLearn si sono svolte in modalità virtuale dal 16 al 18 gennaio 2024. Durante il primo giorno sono state prese decisioni sugli organi di gestione del progetto. Il modello finanziario e di gestione, nonché la revisione di tutte le attività e le scadenze, sono stati presentati il secondo giorno. Infine, nell'ultimo giorno della riunione di lancio sono state definite le prime attività e le responsabilità del progetto."
+    }, 
+    "contact": {
+        "title": "Contattaci", 
+        "admin": "Contatta il nostro amministratore di progetto", 
+        "page": "Contatta l'amministratore della nostra pagina"
+    }, 
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono, tuttavia, quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere ritenuti responsabili."
+    }
+}

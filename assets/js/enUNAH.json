@@ -1,0 +1,55 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+    "information": "GENERAL INFORMATION", 
+    "t1": "Fundada em 1847",
+    "t2": "É a maior universidade pública das Honduras",
+    "t3": "Tem aproximadamente 65.000 alunos, sendo mais de 4.000 académicos e 2.500 administrativos",
+    "t4": "O campus fica em Tegucigalpa (capital das Honduras) e existem 9 campus regionais",
+    "t5": "Existem 5 centros virtuais (Telecentros) e 8 centros adicionais de longa distância (CRAED)"
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "members": {
+    "title": "MEMBERS",
+    "team": "UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS' TEAM",
+    "button": "See more information",
+    "area": "Area of expertise", 
+    "faculty": "Other relevant academic information about you", 
+    "coord": "COORDINATOR",
+    "subcoor": "SUBCOORDINATOR",
+    "modal1-i": " Rainfall-induced landslides, slope stability, hazard and risk analysis ", 
+    "modal1-f": " Civil Engineer (National Autonomous University of Honduras), PhD on Civil and Structural Engineering (Uppsala University), Certification on Geological and Climate Related Risk (University of Geneva), MSc on Geotechnics and Foundation Engineering (EADIC). ORCID: https://orcid.org/0000-0003-4362-4510 ", 
+    "modal2-i": " Civil Engineering, Construction Materials, Pavements, Risk management, Environment, Project Management ",
+    "modal2-f": " I have a Master Degree in Climate Change and Territory Management and another in Project Management, Head of the Scientific Research Management Unit of Civil Engineering, Member of the Risk Management and Climate Change Adaptation Research Group, ACI Concrete Field Testing Technician – Grade I and ACI Aggregate Testing Technician - Level 1, Full Professor of the Engineering Faculty in Civil Engineering, Construction Materials, Pavements, Management Area. I have participated in International Cooperation projects. ", 
+    "modal3-i": " Geotechnical Engineering ", 
+    "modal3-f": " Aminta Velasquez is an accomplished geotechnical engineer who earned her master's degree from the University of Florida. Prior to her graduate studies, she obtained her bachelor's degree from Universidad Nacional Autónoma de Honduras. Currently, she serves as a faculty professor in the Civil Engineering Department of Universidad Nacional Autónoma de Honduras. ",
+    "modal4-i": " Structural and Geotechnical Engineering", 
+    "modal4-f": " At this moment I'm working on a resarch about vulnerability index aplication in a landslide affected district. I'm also colaborating in 3 aditionals resarchs about differents topics. ", 
+    "modal5-i": " Water and sanitation, climate change ", 
+    "modal5-f": " Engineer master in road, channel and port ", 
+    "modal6-i": "Structural and seismic Engineering", 
+    "modal6-f": " Luis Aguirre is a Civil Engineer from UNAH with a Master's degree in Structural, Seismic and Geotechnical Engineering From Universidad de Chile. Now he is the Academic Coordinator of the undergraduated degree of Civil engienering of the UNAH. His research interests is about structural and seismic enginering, vulnerability and risk management. ", 
+    "modal7-i": "Materials engineering, structural engineering", 
+    "modal8-i": "Water and Wastewater Engineering ", 
+    "modal8-f": "Full professor", 
+    "modal9-i": "Structural Engineering | Material Sciences | Sustainability",
+    "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>"
+   }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

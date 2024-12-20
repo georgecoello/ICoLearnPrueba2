@@ -1,0 +1,57 @@
+{
+    "nav": {
+        "lang":"Cambiar Idioma",
+        "title": "ICoLearn", 
+        "home": "Inicio", 
+        "about": "Acerca de ICoLearn", 
+        "partners": "Socios",
+        "results": "Resultados",
+        "news": "Novedades",
+        "contact": "Contactanos"
+    },
+    "name": {
+        "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo y basado en Internet para la transformación digital y el crecimiento sostenible | Proyecto N°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMACIÓN GENERAL", 
+    "t1": "Año de fundación: 1906: El Politécnico de Turín fue fundado oficialmente en 1906, aunque sus raíces se remontan a épocas anteriores. Evolucionó a partir de la anterior Escuela Técnica de Ingenieros (fundada en 1859)",
+    "t2": "Número de estudiantes: Aproximadamente 35.000 estudiantes",
+    "t3": "Áreas temáticas:",
+    "t4": "Ingeniería: Aeroespacial, Automotriz, Biomédica, Química, Civil, Informática, Eléctrica, Electrónica, Energía, Medioambiental, Gestión, Mecánica, Mecatrónica, Nuclear, Física, Telecomunicaciones",
+    "t5": "Arquitectura",
+    "t6": "Diseño",
+    "t7": "Planificación Territorial",
+    "t8": "Facultades (Departamentos): ",
+    "t9": "Departamento de Arquitectura y Diseño (DAD)",
+    "t10": "Departamento de Energía (DENERG)",
+    "t11": "Departamento de Electrónica y Telecomunicaciones (DET)",
+    "t12": "Departamento de Ingeniería Ambiental, Territorial y de Infraestructuras (DIATI)",
+    "t13": "Departamento de Ciencia y Tecnología Aplicadas (DISAT)",
+    "t14": "Departamento de Ingeniería de Gestión e Producción (DIGEP)",
+    "t15": "Departamento de Ingeniería Mecánica y Aeroespacial (DIMEAS)",
+    "t16": "Departamento Interdepartamental de Estudios y Planificación Regional y Urbana (DIST)",
+    "t17": "Número de campus universitarios: Los principales campus de Turín son:",
+    "t18": "Campus principal (Cittadella Politecnica): el corazón histórico de la universidad.",
+    "t19": "Lingotto: Otro campus importante.",
+    "t20": "Ciudadela del Diseño",
+    "t21": "Castello del Valentino: un hermoso castillo histórico que también sirve como campus y está catalogado como Patrimonio de la Humanidad por la UNESCO."
+   },
+   "visit": {
+    "title": "VISITANOS!"
+   }, 
+   "members": {
+    "title": "MIEMBROS",
+    "team": "EQUIPO DE POLITÉCNICO DI TORINO",
+    "button": "Ver más información",
+    "area": "Área de especialización", 
+    "faculty": "Facultad", 
+    "modal1-i": "Fabricación", 
+    "modal1-f": "DIGEP",
+    "modal2-i": "Fabricación", 
+    "modal2-f": "DIGEP"
+   },
+   
+    "footer": {
+        "disclaimer": "Aviso legal: Financiado por la Unión Europea. Las opiniones y puntos de vista expresados ​​son, sin embargo, los de los autores únicamente y no reflejan necesariamente los de la Unión Europea. Ni la Unión Europea ni la autoridad que otorga la subvención pueden ser consideradas responsables de ellos."
+    }
+}

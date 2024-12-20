@@ -1,0 +1,65 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth | Project No.: 101127224"
+    }, 
+    "about": {
+        "title": "About the project",
+        "text": "The overall aim and objective of the project is modernization of higher education in partner countries, through digitalization of educational methodologies and improving students' preparation for participation in the sustainable growth, to enhance the digital transformation of the HEI in Latin America Region. ICOLearn project activities and results includes implementation of innovative internet-based learning methodologies and collaborative tools toolbox consisted of: (1) social-networked based education (SNE), (2) learning factory (LF), (3) co-creation of learning materials (COLM), (4) game-based learning (GL), (5) virtuality (V), (6) blended learning (BL), (7) integrated projects (IP) and (8) project-led-education (PLE); implementation of innovative approach to cooperation with industry and other companies, through the 'learning factory' platform tool for enhancement of industry-partnered active learning to implement practices oriented to sustainable growth.These activities are organized through the five Work Packages (WP): WP1 - Project management and coordination; WP2 - Preparation and Training; WP3 - Design and Organization; WP4 -Implementation; and WP5 - Impact and Dissemination. ICOLearn will output 14 deliverables which consists of 4 management reports, 2 training seminars (as one deliverable), two demonstrations (as one deliverable), six desk study (as one deliverable), six 'brokering events' (as one deliverable), and 6 reports related to design, implementation and dissemination. The target group are teachers and students. There will be involved in total, at six HEI from Brazil, Costa Rica and Honduras: 16 courses and 30 curricular units (subjects), 73 teachers and all students enrolled in the courses addressed by ICoLearn."
+    },
+    "packages":{
+        "title": "Project Work Packages Summary",
+        "pk1": "Work Package 1",
+        "pk1-t": "Project management and coordination", 
+        "pk2": "Work Package 2",
+        "pk2-t": "Preparation and Training",
+        "pk3": "Work Package 3", 
+        "pk3-t": "Design and Organization",
+        "pk4": "Work Package 4",
+        "pk4-t": "Implementation", 
+        "pk5": "Work Package 5",
+        "pk5-t": "Impact and Dissemination"
+    }, 
+    "partners": {
+        "title": "Partners"
+    }, 
+    "results": { 
+        "name": "Results",
+        "r1": "Work Package#1 - Result #1", 
+        "title1": "D1.1 - Minutes of the decision of the project management bodies", 
+        "subtitle": "Dissemination level: Sensitive",
+        "r2": "Work Package#1: Outcome#2",
+        "title2":"D1.2 Project management report for the first year",
+        "r3": "Work Package#2: Outcome#1",
+        "title3":"D2.1 Training seminar on learning methodologies, collaborative and internet-based tools",
+        "r4": "Work Package#2: Outcome#2",
+        "title4": "D2.2 Demonstration in UMINHO and POLITO",
+        "r5":"Work Package#2: Outcome#3",
+        "title5": "D2.3 Desk studies",
+        "r6": "Work Package#5: Outcome#3",
+        "title6": "D5.3 Project website"
+    }, 
+    "news": { 
+        "title": "News", 
+        "n1": "News #1",
+         "n1-t": "The kick-off meetings of the ICoLearn project were held virtually from January 16th to January 18th , 2024. During Day 1, decisions on the project management bodies were made. The financial model and management as well as the review of all tasks and timings were presented on Day 2. Finally, the first project tasks and responsibles were defined on the last day of the kick-off meeting."
+    }, 
+    "contact": {
+        "title": "Contact us", 
+        "admin": "Contact our project administrator", 
+        "page": "Contact our page administrator"
+    }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+
+}

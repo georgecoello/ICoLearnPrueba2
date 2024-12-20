@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "lang":"Cambia lingua",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "CHI SIAMO ICoLearn", 
+        "partners": "Partner",
+        "results": "Risultati", 
+        "news": "Novità", 
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumento metodologico di apprendimento collaborativo e basato su Internet per la trasformazione digitale e la crescita sostenibile | Progetto N°: 101127224"
+    }, 
+    "package": {
+        "title": "Pacchetto di lavoro 4",
+        "subtitle": "Implementazione", 
+        "text1": "Durata: M25 – M36 Beneficiario principale: 5- Università Fidelitas Obiettivi:", 
+        "o1": "Implementazione diretta delle metodologie di apprendimento basate su Internet e degli strumenti collaborativi nei (e per) i partner dei paesi partner in tre fasi.", 
+        "o2": "All'inizio dei semestri, le prime attività saranno istruzioni dettagliate agli studenti sull'uso degli strumenti per l'insegnamento e il lavoro e l'organizzazione degli studenti in conformità con l'abbinamento di particolari unità curriculari con strumenti particolari, per paese partner HEI per l'implementazione, come descritto nel WP3.",
+        "o3": "Insegnamento efficace e lavoro degli studenti in conformità con i piani specificati in dettaglio nel WP2 e WP3.", 
+        "o4":"Valutazione degli strumenti implementati.", 
+        "deliverables": "consegnabile", 
+        "d1": "D4.1 - Implementazione delle attività di insegnamento e lavoro degli studenti.",
+        "d2": "D4.2 - Valutazione degli strumenti implementati"
+    }, 
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono tuttavia quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere considerati responsabili."
+    }
+}

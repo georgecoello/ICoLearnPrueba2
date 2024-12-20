@@ -1,0 +1,57 @@
+{
+    "nav": {
+        "lang":"Alterar idioma",
+        "title": "ICoLearn", 
+        "home": "Início", 
+        "about": "Sobre o ICoLearn", 
+        "partners": "Parceiros",
+        "results": "Resultados",
+        "news": "Novidades",
+        "contact": "Contate-nos"
+    },
+    "name": {
+        "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem colaborativa e Internet para a transformação digital e o crescimento sustentável | <b> Projeto N.º: 101127224"
+    }, 
+   "accordion": {
+        "information": "Informação Geral", 
+        "t1": "Ano de fundação: Fundada em 1960 como universidade federal através da fusão de várias instituições de ensino superior de Niterói e áreas próximas.", 
+        "t2": "Localização: O campus principal está em Niterói, com unidades acadêmicas em outras cidades do estado do Rio de Janeiro, como Volta Redonda, Campos dos Goytacazes e Nova Friburgo.", 
+        "t3": "Classificação: É uma das principais universidades públicas do Brasil, reconhecida por sua excelência acadêmica e projetos de pesquisa.", 
+        "t4": "Áreas acadêmicas:", 
+        "t5": "Ciências Exatas e Naturais", 
+        "t6": "Humanidades", 
+        "t7": "Engenharia", 
+        "t8": "Ciências Sociais e Econômicas", 
+        "t9": "Ciências da Saúde"
+   },
+   "visit": {
+        "title": "VISITE-NOS!"
+   }, 
+   "members": {
+        "title": "MEMBROS",
+        "button": "Ver Mais Informações",
+        "area": "Área de especialização", 
+        "faculty": "Faculdade", 
+        "team": "EQUIPA UNIVERSITÁRIA FEDERAL FLUMINENSE", 
+        "coord": "COORDENADOR",
+        "modal1-i": "Engenharia e Engenharia de Transporte", 
+        "modal1-f": "Engenharia Civil", 
+        "modal2-i": "Engenharia de Produto, Desenvolvimento de Produto e Gestão de Qualidade. Atualmente, minha área de interesse em pesquisa são as técnicas utilizadas em laboratórios de prototipagem, onde pratico impressão aditiva, design de produto, corte a laser, entre outras técnicas. Trabalhei em projetos nas áreas de tecnologia assistiva e produtos voltados para produtores agrícolas familiares.",
+        "modal2-f": "Faculdade de Engenharia, Departamento de Engenharia de Produção Universidade Federal Fluminense",
+        "modal3-i": "Gestão de qualidade, Gestão de projetos, Gestão da cadeia de suprimentos.",
+        "modal3-f": "Faculdade de Engenharia, Departamento de Engenharia de Produção Universidade Federal Fluminense.",
+        "modal4-i": "Ativo Intangível; ESG (Ambiental, Social e Governança); Análise do Ciclo de Vida do Produto",
+        "modal4-f": "Departamento de Ciências Atuariais e Finanças, Universidade Federal Fluminense.",
+        "modal5-i": "Ergonomia, Fatores Humanos, Saúde e Segurança no Trabalho, Antropometria",
+        "modal5-f": "Universidade Federal Fluminense, Faculdade de Engenharia, Departamento de Engenharia de Produção.",
+        "modal6-i": "Modelagem para Gestão de Segurança do Trabalho/Gestão da Construção Civil",
+        "modal6-f": "Faculdade de Engenharia, Departamento de Engenharia Agrícola e Ambiental - Universidade Federal Fluminense",
+        "modal7-i": "Tratamento e aproveitamento de resíduos agrícolas; Agroecologia e Permacultura",
+        "modal7-f": "Faculdade de Engenharia, Departamento de Engenharia Agrícola e Ambiental - Universidade Federal Fluminense",
+        "modal8-i": "Estratégia, Gestão de Qualidade, Gestão de Projetos, Gestão de Operações",
+        "modal8-f": "Departamento de Engenharia de Produção - Faculdade de Engenharia"
+   }, 
+    "footer": {
+        "disclaimer": "Aviso Legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são apenas do autor e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente podem ser responsabilizadas por eles."
+    }
+}

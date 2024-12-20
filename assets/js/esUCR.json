@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "lang":"Cambiar Idioma",
+        "title": "ICoLearn", 
+        "home": "Inicio", 
+        "about": "Acerca de ICoLearn", 
+        "partners": "Socios",
+        "results": "Resultado",
+        "news": "Novedades",
+        "contact": "Contactanos"
+    },
+    "name": {
+        "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo y basado en Internet para la transformación digital y el crecimiento sostenible | Proyecto N°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMACION GENERAL", 
+    "text1": "Universidad pública con autonomía administrativa y financiera.", 
+    "text2": "Fue fundada el 26 de agosto de 1940.", 
+    "text3": "Posición 19 entre las mejores universidades de América Latina", 
+    "text4": "Reconocida como un factor de movilidad social en la sociedad de CR.", 
+    "text5": "El campus principal está ubicado en el centro de San José, Costa Rica.", 
+    "text6":  "Cuenta con 12 sedes, distribuidas a lo largo del territorio de CR.", 
+    "text7": "Población estudiantil 43.000",  
+    "text8": "Admisión anual 9.500. Graduaciones anuales 6.500.", 
+    "text9": "13 Facultades, 48 ​​Escuelas, 538 Opciones académicas."
+   },
+   "visit": {
+    "title": "VISITANOS!"
+   }, 
+   "relevant": {
+    "title": "OTRA INFORMACIÓN RELEVANTE",
+    "info": " El campus principal está ubicado en el centro de San José, Costa Rica. Tiene 12 sedes, repartidas por el territorio de la República Checa. Los más grandes se llaman “Sedes” y los más pequeños se llaman “Recintos”: 1) San José, 2) San Ramón, 3) Grecia, 4) Liberia, 5) Santa Cruz, 6) Puntarenas, 7) Limón, 8) Guápiles, 9) Turrialba, 10) Golfito, 11) Alajuela, 12) Paraíso."
+   },
+   "members": {
+    "title": "MIEMBROS",
+    "team": "EQUIPO DE LA UNIVERSIDAD DE COSTA RICA",
+    "coord": "Coordinador",
+    "button": "Ver Mas Informacion",
+    "area": "Área de especialización", 
+    "faculty": "Facultad", 
+    "modal1-i": " Gestión de Proyectos y Construcción, Políticas Públicas", 
+    "modal1-f": " Escuela de Ingeniería Civil ", 
+    "modal2-i": " Gestión de Proyectos y Construcción, Políticas Públicas", 
+    "modal2-f": " Escuela de Ingeniería Civil ", 
+    "modal3-i": " Ingeniería estructural ",
+    "modal3-f": " Escuela de Ingeniería Civil ",
+    "modal4-i": " Gestión de proyectos y construcción ", 
+    "modal4-f": "Escuela de Ingeniería Civil", 
+    "modal5-i": " Hidráulica e hidrología ", 
+    "modal5-f": "Escuela de Ingeniería Civil", 
+    "modal6-i": " Planificación del transporte ",
+    "modal6-f": " Escuela de Ingeniería Civil", 
+    "modal7-i": " Ingeniería ambiental ", 
+    "modal7-f": "Escuela de Ingeniería Civil", 
+    "modal8-i": " Ingeniería geotécnica ", 
+    "modal8-f": " Escuela de Ingeniería Civil ", 
+    "modal9-i": " Ingeniería civil ", 
+    "modal9-f": " Escuela de Ingeniería Civil"
+
+   }, 
+    "footer": {
+        "disclaimer": "Aviso legal: Financiado por la Unión Europea. Las opiniones y puntos de vista expresados ​​son, sin embargo, los de los autores únicamente y no reflejan necesariamente los de la Unión Europea. Ni la Unión Europea ni la autoridad que otorga la subvención pueden ser consideradas responsables de ellos."
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "results": "Results",
+        "partners": "Partners",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+    "information": "GENERAL INFORMATION", 
+    "t1": "Year of foundation: 1906: The Polytechnic of Turin was officially founded in 1906, although its roots go back even further. It evolved from the earlier Technical School of Engineers (founded in 1859).",
+    "t2": "Number of students: Approximately 35,000 students",
+    "t3": "Subject areas:",
+    "t4": "Engineering: Aerospace, Automotive, Biomedical, Chemical, Civil, Computer Science, Electrical, Electronics, Energy, Environmental, Management, Mechanical, Mechatronics, Nuclear, Physics, Telecommunications",
+    "t5": "Architecture",
+    "t6": "Design",
+    "t7": "Spatial Planning",
+    "t8": "Faculties (Departments): ",
+    "t9": "Department of Architecture and Design (DAD)",
+    "t10": "Department of Energy (DENERG)",
+    "t11": "Department of Electronics and Telecommunications (DET)",
+    "t12": "Department of Environmental, Territorial and Infrastructure Engineering (DIATI)",
+    "t13": "Department of Applied Science and Technology (DISAT)",
+    "t14": "Department of Management and Production Engineering (DIGEP)",
+    "t15": "Department of Mechanical and Aerospace Engineering (DIMEAS)",
+    "t16": "Interdepartmental Department of Regional and Urban Studies and Planning (DIST)",
+    "t17": "Number of University Campuses: The main campuses in Turin are:",
+    "t18": "Main Campus (Cittadella) Politecnica): The historic heart of the university.",
+    "t19": "Lingotto: Another significant campus.",
+    "t20": "Cittadella del Design",
+    "t21": "Castello del Valentino: A beautiful historic castle that also serves as a campus and is listed as a UNESCO World Heritage Site."
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "members": {
+    "title": "MEMBERS",
+    "team": "POLITECNICO DI TORINO'S TEAM",
+    "button": "See more information",
+    "area": "Area of expertise", 
+    "faculty": "Faculty", 
+    "modal1-i": "Manufacturing ", 
+    "modal1-f": " DIGEP ",
+    "modal2-i": " Manufacturing ",
+    "modal2-f": " DIGEP "
+   },
+   
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

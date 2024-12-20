@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "lang":"Alterar idioma",
+        "title": "ICoLearn", 
+        "home": "Início", 
+        "about": "SOBRE O ICoLearn",
+        "partners": "Parceiros",
+        "results": "Resultados",
+        "news": "Novidades",
+        "contact": "Contate-nos"
+    },
+    "name": {
+        "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem colaborativa e baseada na Internet para a transformação digital e o crescimento sustentável | Projeto N.º: 101127224"
+    }, 
+    "package": {
+        "title": "Pacote de trabalho 2",
+        "subtitle": "Preparação e capacitação",
+        "text1": "Duração: M2-M12. Beneficiário principal: 4 - UFC. Objetivos:",
+        "o1": "Fornecer capacitação aos parceiros dos países parceiros sobre os temas, conceitos, metodologias e tecnologias subjacentes relevantes para os objetivos e a implementação do projeto.",
+        "o2": "Os temas, conceitos, metodologias e tecnologias sobre os quais a capacitação será fornecida são: 1) Paradigmas educacionais: Educação 1.0, Educação 2.0 e Educação 3.0; 2) Quadro de metodologias pedagógicas; 3) Transformação digital na educação e crescimento sustentável; 4) Metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas: educação baseada em redes sociais (SNE), fábrica de aprendizagem (LF), aprendizagem combinada (BL), co-criação de materiais de aprendizagem (CoLM), aprendizagem baseada em jogos (GL), virtualidade (V), projetos integrados (IP) e educação dirigida por projetos (PLE).", 
+        "o3": "Demonstração na vida real das metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas que serão implementadas nas IES dos países parceiros: 1) UMINHO demonstrará sua prática em SNE, LF, AL, CoLM, GL, V, IP e PLE; 2) POLITO demonstrará sua prática em aprendizagem combinada e cooperação com a indústria.", 
+        "o4": "Preparação de um 'estudo documental' sobre as metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas, que serão aplicadas nas IES dos países parceiros, no contexto da transformação digital e crescimento sustentável. Este estudo representará um estudo comparativo e servirá como referência para a avaliação dos resultados do projeto dentro da gestão da qualidade do projeto.", 
+        "o5": "A atividade de capacitação será realizada em paralelo, em dois formatos para dois grupos de participantes: 1) presencial nas IES dos países do programa, e 2) remotamente através do sistema de videoconferência. Cada grupo de participantes será constituído por representantes de todas as instituições de ensino superior dos países parceiros, devido aos recursos limitados para viagens e ao grande número de docentes envolvidos das instituições de ensino superior dos países parceiros.",
+        "deliverables": "Entregáveis",
+        "d1": "D2.1 - Seminário de formação em metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas",
+        "d2": "D2.2 - Demonstração",
+        "d3": "D2.3 - Estudo documental"
+    }, 
+    "footer": {
+        "disclaimer": "Aviso Legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são exclusivamente dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente podem ser responsabilizadas por eles."
+    }
+}

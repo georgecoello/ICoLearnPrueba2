@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "lang":"Cambiar Idioma",
+        "title": "ICoLearn", 
+        "home": "Inicio", 
+        "about": "ACERCA DE ICoLearn", 
+        "partners": "Socios",
+        "results": "Resultados",
+        "news": "Novedades",
+        "contact": "Contactanos"
+    },
+    "name": {
+        "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo y basado en Internet para la transformación digital y el crecimiento sostenible | Proyecto N°: 101127224"
+    }, 
+    "package": {
+        "title": "Paquete de trabajo 3",
+        "subtitle": "Diseño y organización",
+        "text1": "Duración:M13 – M24 Beneficiario principal:6- UCR Objetivos:", 
+        "o1": "Definir los procedimientos y programas detallados para la implementación de metodologías de aprendizaje basadas en Internet y herramientas colaborativas en las asignaturas seleccionadas (unidades curriculares) en las IES de los países socios, para cada unidad curricular involucrada.",
+        "o2": "Selección de empresas que proporcionarán tareas/asignaciones para estudiantes de LF y BL.", 
+        "o3": "Especificación detallada de tareas/asignaciones para la implementación de metodologías de aprendizaje basadas en Internet y herramientas colaborativas en las asignaturas seleccionadas (unidades curriculares), en las universidades asociadas de los países socios para su aplicación dentro de cada asignatura (unidad curricular).", 
+        "o4":  "Plan de programación para la enseñanza y el trabajo de los estudiantes en tareas/asignaciones predefinidas a lo largo del semestre, para la implementación y realización de las metodologías de aprendizaje basadas en Internet y herramientas colaborativas para cada una de las asignaturas seleccionadas (unidades curriculares), en las universidades asociadas de los países socios.",
+
+        "deliverables": "Entregables:",
+        "d1":   "D3.1 - Diseño y procedimiento de aplicación de la herramienta",
+        "d2": "D3.2 - Evento de intermediación",
+        "d3": "D3.3 - Plan de asignaciones y programación"
+    }, 
+    "footer": {
+        "disclaimer": "Aviso Legal: Financiado por la Unión Europea. Sin embargo, las opiniones y puntos de vista expresados ​​son únicamente los del autor y no necesariamente reflejan los de la Unión Europea. Unión Europea. Ni la Unión Europea ni la autoridad concedente pueden ser consideradas responsables de ellos."
+    }
+}

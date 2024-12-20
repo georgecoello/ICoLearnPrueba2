@@ -1,0 +1,70 @@
+{
+    "nav": {
+        "lang":"Cambia lingua",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "Chi siamo ICoLearn", 
+        "partners": "Partner",
+        "results": "Risultati", 
+        "news": "Novità", 
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumento metodologico di apprendimento collaborativo e Internet per la trasformazione digitale e la crescita sostenibile |<b> Progetto N.°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMAZIONI GENERALI", 
+    "t1": "Anno di fondazione: 2002.",
+    "t2": "Numero di studenti: 2400.",
+    "t3": "Aree tematiche:",
+    "t4": "Ingegneria",
+    "t5": "Marketing",
+    "t6": "Ecologia",
+    "t7": "Area Social",
+    "t8": "Comunicazione",
+    "t9": "Legale.",
+    "t10": "Nome dell'università:",
+    "t11": "Facoltà di Scienze Aziendali",
+    "t12": "Facoltà di Ecologia e Ambiente",
+    "t13": "Facoltà di Scienze Sociali",
+    "t14": "Facoltà di scienze della comunicazione",
+    "t15": "Facoltà di Scienze Giuridiche",
+    "t16": "Facoltà di Ingegneria.",
+    "t17": "Numero di campus universitari: 10 campus a livello nazionale."
+   },
+   "visit": {
+    "title": "VISITACI!"
+   }, 
+   "relevant": {
+    "title": "ALTRI INFORMAZIONI RILEVANTI", 
+    "info": "La Universidad Metropolitana de Honduras es una institución de educación superior de carácter privado, sin fines de lucro, fundada por la Fundación Universitaria Metropolitana FUMH (FUMH), mediante resolución 89-2001 publicada en el diario oficial La Gaceta el 1 de agosto de 2001, creada mediante acuerdo n. 1068. -154-2002 de 18 de diciembre de dos mil dos, de la Dirección de Educación Superior de Honduras. <br> Cuenta con 10 campus ubicados a lo largo del país en las principales ciudades del país, ofrece 9 carreras de grado, 7 cursos de maestría y dos cursos de nivel técnico-profesional, cuenta con 400 empleados entre directivos, administradores y docentes y cuenta con una población estudiantil de más de 6.000 estudiantes. <br><br> Misión <br> Contribuir al desarrollo social, económico, tecnológico y político del país, a través de la formación de recursos humanos de calidad y competitivos, capaces de transformar las estructuras sociales, económicas y políticas. Formar generaciones de profesionales con valores y actitudes positivas acordes a su condición humana y a las necesidades éticas y morales de la sociedad. <br><br> Visión <br> Ser un centro docente de Educación Superior que brinde servicios educativos de calidad, con proyección internacional en diferentes campos del conocimiento humano. Ser una universidad avanzada en técnicas y metodologías relacionadas con la creación y transmisión de las ciencias, las artes y la cultura, formando un sistema de aprendizaje que conecte a los académicos con las necesidades y problemas locales, nacionales y regionales, con el fin de contribuir a su solución. <br><br> Objetivos <br> * Desarrollar la educación superior para formar profesionales dentro de los conceptos y necesidades de la globalización y la competitividad nacional e internacional. <br> * Desarrollar una educación en ciencias y humanidades que empodere al estudiante. <br> * Brindar capacitación estratégica con el objetivo de formar una figura profesional capaz de contribuir al desarrollo de los sectores sociales del país. <br><br> La UMH forma parte de organizaciones nacionales e internacionales comprometidas con la gestión del riesgo de desastres y la adaptación al cambio climático, por ejemplo, a nivel nacional, el Comité Interinstitucional de Ciencias Ambientales (CICA), una alianza a nivel nacional de la Gobierno de Honduras con el Servicio Nacional para el Emprendimiento y la Pequeña Empresa (SENPRENDE), con varias instituciones de la sociedad civil como el Benemérito Cuerpo de Bomberos, la Comisión Permanente de Emergencia (COPECO), la Asociación Por Más Justa (ASJ), el Consejo Hondureño de la Empresa Privada (COHEP), los Centros de Desarrollo Empresarial (CDE) y otros. A nivel internacional, la UMH es miembro de la Red Universitaria de las Américas y el Caribe para la Reducción del Riesgo de Desastres (REDULAC/RRD); siendo creadores del Capítulo Honduras, ocupando la presidencia durante 4 años, recibieron el Premio NOE en República Dominicana en reconocimiento al trabajo realizado en este tema; La Universidad es miembro de la Red de Instituciones de Educación Superior de América Latina y el Caribe (RiesGIRD-LAC) y actualmente ocupa la presidencia de la Red. Asimismo, la UMH es miembro de la Organización Universitaria Interamericana (OUI) que busca. fortalecer espacios de cooperación educativa. a un nivel superior en coordinación con sus miembros y otros aliados estratégicos en la búsqueda de una oferta diversificada, contribución a los ODS y excelencia organizacional. La UMH es miembro y lidera la Asociación de Universidades Privadas de Honduras (ANUPRIH) y miembros de la Asociación de Universidades Privadas de Centroamérica (AUPRICA)."
+   }, 
+   "members": {
+    "title": "MEMBRI",
+    "button": "Vedi maggiori informazioni",
+    "area": "Area di specializzazione", 
+    "faculty": "Facoltà", 
+    "coord": "COORDINATORE",
+    "team": "SQUADRA DELL'UNIVERSITÀ METROPOLITANA DELL'HONDURAS",
+    "modal1-i": "Telecomunicazioni/Gestione Aziendale/Istruzione Superiore",
+    "modal1-f": "Ingegneria/Scienze Aziendali",
+    "modal2-i": "Controllo Qualità Totale/Istruzione Superiore",
+    "modal2-f": "Ingegneria",
+    "modal3-i": "Marketing/Istruzione Superiore",
+    "modal3-f": "Scienze Aziendali",
+    "modal4-i": "Gestione Aziendale/Istruzione Superiore",
+    "modal5-i": "Marketing/Sviluppo Sostenibile Internazionale",
+    "modal5-f": "Scienze Aziendali",
+    "modal6-i": "Marketing/Sviluppo Sostenibile Internazionale",
+    "modal6-f": "Scienze Aziendali",
+    "modal7-i": "Istruzione Superiore orientata alla Didattica Universitaria e alla Progettazione Curricolare",
+    "modal7-f": "Scienze Sociali",
+    "modal8-i": "Gestione aziendale/Istruzione superiore",
+    "modal8-f": "Ingegneria/Scienze aziendali",
+    "modal9-i": "Costruzione/Gestione del rischio/Istruzione superiore",
+    "modal9-f": "Ingegneria"
+   }, 
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Tuttavia, le opinioni e i punti di vista espressi sono esclusivamente quelli dell'autore e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità erogante del finanziamento possono essere considerati responsabili."
+    }
+}

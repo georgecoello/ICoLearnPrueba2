@@ -1,0 +1,31 @@
+{
+    "nav": {
+        "lang":"Cambiar Idioma",
+        "title": "ICoLearn", 
+        "home": "Inicio", 
+        "about": "ACERCA DE ICoLearn", 
+        "partners": "Partners",
+        "results": "Resultados",
+        "news": "Noticias",
+        "contact": "Contacto"
+    },
+    "name": {
+        "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo y basado en Internet para la transformación digital y el crecimiento sostenible | Proyecto N°: 101127224"
+    }, 
+    "package": {
+        "title": "Paquete de trabajo 1",
+        "subtitle": "Gestión y coordinación del proyecto",
+        "text1": "Duración:M1 – M36 Beneficiario principal: 1 - UMINHO Objetivos:",
+        "o1": "Este WP1 se centrará en la gestión de actividades, recursos y costos del proyecto, así como en la gestión de la comunicación, la gestión de riesgos y conflictos, y la gestión de la calidad del proyecto.",
+        "o2": "El Coordinador será el principal responsable de la gestión de riesgos y conflictos.",
+        "o3": "ontinuous reporting among partners and project management board meetings will contribute to the quality of project results.",
+        "deliverables": "Entregables",
+        "d1": "D1.1 - Actas de las decisiones de los órganos de gestión del proyecto.",
+        "d2": "D1.2 - Informe de gestión del proyecto del primer año.",
+        "d3": "D1.3 - Informe de gestión del proyecto del segundo año.",
+        "d4": "D1.4 - Informe de gestión del proyecto del tercer año."
+    },
+        "footer": {
+            "disclaimer": "Aviso Legal: Financiado por la Unión Europea. Sin embargo, las opiniones y puntos de vista expresados ​​son únicamente los del autor y no necesariamente reflejan los de la Unión Europea. Unión Europea. Ni la Unión Europea ni la autoridad concedente pueden ser consideradas responsables de ellos."
+    }
+}

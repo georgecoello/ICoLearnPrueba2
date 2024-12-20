@@ -1,0 +1,31 @@
+{
+    "nav": {
+        "lang":"Cambia lingua",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "CHI SIAMO ICoLearn",
+        "partners": "Partner", 
+        "results": "Risultati", 
+        "news": "Novità", 
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumento metodologico di apprendimento collaborativo e basato su Internet per la trasformazione digitale e la crescita sostenibile | Progetto N°: 101127224"
+    }, 
+    "package": {
+        "title": "Pacchetto di lavoro 1",
+        "subtitle": "Gestione e coordinamento del progetto",
+        "text1": "Durata: M1 – M36 Beneficiario principale: 1 - UMINHO Obiettivi:",
+        "o1": "Questo pacchetto di lavoro 1 si concentrerà sulla gestione delle attività, delle risorse e dei costi del progetto, nonché sulla gestione della comunicazione, della gestione dei rischi e dei conflitti e della gestione della qualità del progetto.",
+        "o2": "Il coordinatore sarà il principale responsabile della gestione dei rischi e dei conflitti.",
+        "o3": "La presentazione di report continui tra i partner e le riunioni del consiglio di gestione del progetto contribuiranno alla qualità dei risultati del progetto.",
+        "deliverables": "Consegnabile:",
+        "d1": "D1.1 - Verbali delle decisioni degli organi di gestione del progetto.", 
+        "d2": "D1.2 - Rapporto di gestione del progetto del primo anno",
+        "d3": "D1.3 - Rapporto di gestione del progetto del secondo anno.",
+        "d4": "D1.4 - Rapporto di gestione del progetto del terzo anno"
+    },
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono tuttavia quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere considerati responsabili."
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "nav": {
+        "lang":"Alterar idioma",
+        "title": "ICoLearn", 
+        "home": "Início", 
+        "about": "Sobre o ICoLearn", 
+        "partners": "Parseiro",
+        "results": "Resultados",
+        "news": "Novidades",
+        "contact": "Contate-nos"
+    },
+    "name": {
+        "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem colaborativa e baseada na Internet para a transformação digital e o crescimento sustentável | Projeto N°: 101127224"
+    },
+    "accordion": {
+        "information": "INFORMAÇÃO GERAL", 
+        "t1": "Ano de fundação: 1906: O Politécnico de Turim foi fundado oficialmente em 1906, embora suas raízes remontem a tempos mais antigos. Evoluiu a partir da anterior Escola Técnica de Engenheiros (fundada em 1859).", 
+        "t2": "Número de estudantes: Aproximadamente 35.000 estudantes", 
+        "t3": "Áreas temáticas:", 
+        "t4": "Engenharia: Aeroespacial, Automotiva, Biomédica, Química, Civil, Informática, Elétrica, Eletrônica, Energética, Ambiental, Gestão, Mecânica, Mecatrônica, Nuclear, Física, Telecomunicações", 
+        "t5": "Arquitetura", 
+        "t6": "Design", 
+        "t7": "Planejamento Territorial" , 
+        "t8": "Faculdades (Departamentos): ", 
+        "t9": "Departamento de Arquitetura e Design (DAD)",
+        "t10": "Departamento de Energia (DENERG) ", 
+        "t11": "Departamento de Eletrônica e Telecomunicações (DET)", 
+        "t12": "Departamento de Engenharia Ambiental, Territorial e Infraestrutura (DIATI) ", 
+        "t13": "Departamento de Ciência Aplicada e Tecnologia (DISAT)", 
+        "t14": "Departamento de Engenharia de Gestão e Produção (DIGEP) ", 
+        "t15": "Departamento de Engenharia Mecânica e Aeroespacial (DIMEAS)" ,
+        "t16": "Departamento Interdepartamental de Estudos e Planejamento Regional e Urbano (DIST)", 
+        "t17": "Número de Campi Universitários: Os principais campi em Turim são:", 
+        "t18": "Campus Principal (Cittadella Politecnica): O coração histórico da universidade.", 
+        "t19": "Lingotto: Outro campus significativo.", 
+        "t20": "Cittadella del Design", 
+        "t21": "Castello del Valentino: Um belo castelo histórico que também serve como campus e está catalogado como Patrimônio da Humanidade pela UNESCO."
+    },
+    "visit": {
+        "title": "VISITE-NOS!"
+    },
+    "members": {
+        "title": "MEMBROS",
+        "team": "EQUIPA DO POLITÉCNICO DI TORINO",
+        "button": "Ver mais informações",
+        "area": "Área de especialização", 
+        "faculty": "Faculdade",
+        "modal1-i": "Produção", 
+        "modal1-f": "DIGEP",
+        "modal2-i": "Produção", 
+        "modal2-f": "DIGEP"
+    },
+    "footer": {
+        "disclaimer": "Aviso legal: Financiado pela União Europeia. As opiniões e pontos de vista expressos são, no entanto, apenas dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente da subvenção podem ser responsabilizadas por eles."
+    }
+}

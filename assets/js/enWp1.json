@@ -1,0 +1,31 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+    "package": {
+        "title": "Work Package 1",
+        "subtitle": "Project management and coordination", 
+        "text1": "Duration:M1 – M36 Lead Beneficiary: 1 - UMINHO            Objectives:",
+        "o1": "This WP1 will be focused on management of project activities, resources and costs as well as communication management, risk and conflict management, and project quality management.", 
+        "o2": "The Coordinator will be the principal responsible for risk and conflict management.",
+        "o3": "Continuous reporting among partners and project management board meetings will contribute to the quality of project results.", 
+        "deliverables": "Deliverables:" ,
+        "d1":  "D1.1 - Minutes of the decision of the project management bodies.", 
+        "d2": "D1.2 - First year project management report.", 
+        "d3": "D1.3 - Second year project management report.", 
+        "d4": "D1.4 - Third year project management report"
+    }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

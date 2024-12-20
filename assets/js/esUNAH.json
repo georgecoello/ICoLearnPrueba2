@@ -1,0 +1,55 @@
+{
+    "nav": {
+        "lang":"Cambiar Idioma",
+        "title": "ICoLearn", 
+        "home": "Inicio", 
+        "about": "ACERCA DE ICoLearn", 
+        "partners": "Socios",
+        "results": "Resultados",
+        "news": "Novedades",
+        "contact": "Contactanos"
+    },
+    "name": {
+        "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo y basado en Internet para la transformación digital y el crecimiento sostenible | Proyecto N°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMACION GENERAL", 
+    "t1": "Fundada en 1847", 
+    "t2": "Es la universidad pública más grande de Honduras", 
+    "t3": "Tiene aproximadamente 65,000 estudiantes, más de 4,000 académicos y 2,500 administrativos", 
+    "t4": "El campus  está en Tegucigalpa (la capital de Honduras) y hay 9 Campus regionales", 
+    "t5": "Hay 5 centros virtuales (Telecentros) y 8 centros adicionales de larga distancia (CRAED)"
+   },
+   "visit": {
+    "title": "VISITANOS!"
+   }, 
+   "members": {
+    "title": "MIEMBROS",
+    "button": "Ver Mas Informacion",
+    "area": "Área de especialización", 
+    "team": "EQUIPO DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS",
+    "faculty": "Otra información académica relevante sobre usted",
+    "coord": "COORDINADOR",
+    "subcoor": "SUBCOORDINADOR",
+    "modal1-i": "Deslizamientos inducidos por lluvia, estabilidad de taludes, análisis de peligros y riesgos",
+    "modal1-f": "Ingeniero Civil (Universidad Nacional Autónoma de Honduras), Doctor en Ingeniería Civil y Estructural (Universidad de Uppsala), Certificación en Riesgo Geológico y Climático (Universidad de Ginebra), Maestría en Geotecnia e Ingeniería de Fundaciones (EADIC). ORCID: https://orcid.org/0000-0003-4362-4510 ",
+    "modal2-i": "Ingeniería Civil, Materiales de Construcción, Pavimentos, Gestión de Riesgos, Medio Ambiente, Gestión de Proyectos",
+    "modal2-f": "Tengo una Maestría en Cambio Climático y Gestión del Territorio y otra en Gestión de Proyectos, Jefe de la Unidad de Gestión de Investigación Científica de Ingeniería Civil, Miembro del Grupo de Investigación de Gestión de Riesgos y Adaptación al Cambio Climático, Técnico en Ensayos de Campo de Concreto ACI – Técnico en Ensayos de Agregados Grado I y ACI - Nivel 1, Profesor Titular de la Facultad de Ingeniería en Ingeniería Civil, Materiales de Construcción, Pavimentos, Área de Gestión. He participado en proyectos de Cooperación Internacional. ",
+    "modal3-i": " Ingeniería Geotécnica ",
+    "modal3-f": " Aminta Velasquez es una ingeniera geotécnica consagrada que obtuvo su maestría en la Universidad de Florida. Antes de sus estudios de posgrado, obtuvo su licenciatura en la Universidad Nacional Autónoma de Honduras. Actualmente, se desempeña como profesora de la facultad en el Departamento de Ingeniería Civil de la Universidad Nacional Autónoma de Honduras. ",
+    "modal4-i": " Ingeniería Estructural y Geotécnica",
+    "modal4-f": " En este momento estoy trabajando en una investigación sobre la aplicación del índice de vulnerabilidad en un distrito afectado por deslizamientos de tierra. También estoy colaborando en 3 investigaciones adicionales sobre diferentes temas. ",
+    "modal5-i": " Agua y saneamiento, cambio climático ",
+    "modal5-f": " Ingeniero magíster en caminos, canales y puertos ",
+    "modal6-i": "Ingeniería estructural y sísmica",
+    "modal6-f": " Luis Aguirre es Ingeniero Civil de la UNAH con Magíster en Ingeniería Estructural, Sísmica y Geotécnica de la Universidad de Chile. Actualmente es Coordinador Académico de la carrera de Ingeniería Civil de la UNAH. Sus intereses de investigación son sobre ingeniería estructural y sísmica, vulnerabilidad y gestión de riesgos. ",
+    "modal7-i": "Ingeniería de materiales, ingeniería estructural",
+    "modal8-i": "Ingeniería de Aguas y Aguas Residuales ",
+    "modal8-f": "Profesor Titular",
+    "modal9-i": "Ingeniería Estructural | Ciencias de los Materiales | Sustentabilidad", 
+    "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>"
+  }, 
+    "footer": {
+        "disclaimer": "Aviso Legal: Financiado por la Unión Europea. Las opiniones y puntos de vista expresados ​​son, sin embargo, los de los autores únicamente y no necesariamente reflejan los de la Unión Europea. Ni la Unión Europea ni la autoridad que otorga la subvención pueden ser considerados responsables de ellos."
+    }
+}

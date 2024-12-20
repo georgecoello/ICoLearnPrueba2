@@ -1,0 +1,58 @@
+{
+    "nav": {
+        "lang":"Cambiar Idioma",
+        "title": "ICoLearn", 
+        "home": "Inicio", 
+        "about": "ACERCE DE ICoLearn", 
+        "partners": "Socios",
+        "results": "Resultados",
+        "news": "Novedades",
+        "contact": "Contactanos"
+    },
+    "name": {
+        "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo e Internet para la transformación digital y el crecimiento sostenible |<b> Proyecto N.°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMACION GENERAL", 
+    "t1": "Año de Fundación: Fundada en 1960 como una universidad federal mediante la fusión de varias instituciones de educación superior en Niterói y zonas cercanas.",
+    "t2": "Ubicación: El campus principal está en Niterói, con unidades académicas en otras ciudades del estado de Río de Janeiro, como Volta Redonda, Campos dos Goytacazes y Nova Friburgo.",
+    "t3": "Ranking: Es una de las principales universidades públicas de Brasil, reconocida por su excelencia y proyectos de investigación académica.",
+    "t4": "Áreas académicas:",
+    "t5": "Ciencias Exatas y Naturales",
+    "t6": "Humanidades",
+    "t7": "Ingeniería",
+    "t8": "Ciencias Sociales y Económicas",
+    "t9": "Ciencias de la Salud"
+   },
+   "visit": {
+    "title": "VISITANOS!"
+   }, 
+   "members": {
+    "title": "MIEMBROS",
+    "button": "Ver Mas Informacion",
+    "area": "Área de especialización", 
+    "faculty": "Facultad", 
+    "coord": "COORDINADOR",
+    "team": "EQUIPO DE LA UNIVERSIDADE FEDERAL FLUMINENSE",
+    "modal1-i": " Ingeniería e Ingeniería de Transporte", 
+    "modal1-f": " Ingenieria Civil", 
+    "modal2-i": " Ingeniería de Producto, Desarrollo de Producto y Gestión de Calidad. Actualmente mi área de interés de investigación son las técnicas utilizadas en laboratorios de prototipado, donde practico impresión aditiva, diseño de producto, corte láser, entre otras técnicas. He trabajado en proyectos en las áreas de tecnología de asistencia y productos dirigidos a productores agrícolas familiares.",
+    "modal2-f": " Facultad de Ingeniería, Departamento de Ingeniería de Producción Universidade Federal Fluminense",
+    "modal3-i": " Gestión de calidad, Gestión de proyectos, Gestión de la cadena de suministro.",
+    "modal3-f": " Facultad de Ingeniería, Departamento de Ingeniería de Producción Universidade Federal Fluminense.",
+    "modal4-i": " Activo Intangible; ESG ( Ambiental, Social y Gobernanza); Análisis del Ciclo de Vida del Producto ",
+    "modal4-f": " Departamento de Ciencias Actuariales y Finanzas, Universidad Federal Fluminense. ",
+    "modal5-i": " Ergonomía, Factores Humanos, Salud y Seguridad en el Trabajo, Antropometría ",
+    "modal5-f": " Universidad Federal Fluminense, Facultad de Ingeniería, Departamento de Ingeniería de Producción.",
+    "modal6-i": " Modelado para la Gestión de la Seguridad Laboral/Gestión de la Construcción Civil ",
+    "modal6-f": " Facultad de Ingeniería, Departamento de Ingeniería Agrícola y Medio Ambiente - Universidade Federal Fluminense ",
+    "modal7-i": " Tratamiento y aprovechamiento de residuos agrícolas; Agroecología y Permacultura ",
+    "modal7-f": " Facultad de Ingeniería, Departamento de Ingeniería Agrícola y Ambiental - Universidade Federal Fluminense ",
+    "modal8-i": " Estrategia, Gestión de Calidad, Gestión de Proyectos, Gestión de Operaciones ",
+    "modal8-f": " Departamento de Ingeniería de Producción - Facultad de Ingeniería "
+
+   }, 
+    "footer": {
+        "disclaimer": "Aviso Legal: Financiado por la Unión Europea. Sin embargo, las opiniones y puntos de vista expresados ​​son únicamente los del autor y no necesariamente reflejan los de la Unión Europea. Ni la Unión Europea ni la autoridad otorgante pueden ser considerados responsables de ellos"
+    }
+}

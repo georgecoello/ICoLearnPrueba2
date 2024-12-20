@@ -1,0 +1,31 @@
+{
+    "nav": {
+        "lang":"Alterar idioma",
+        "title": "ICoLearn", 
+        "home": "Início", 
+        "about": "SOBRE O ICoLearn", 
+        "partners": "Parceiros",
+        "results": "Resultados",
+        "news": "Novidades",
+        "contact": "Contate-nos"
+    },
+    "name": {
+        "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem colaborativa e baseada na Internet para a transformação digital e o crescimento sustentável | Projeto N.º: 101127224"
+    }, 
+    "package": {
+        "title": "Pacote de trabalho 3",
+        "subtitle": "Design e organização",
+        "text1": "Duração: M13 – M24. Beneficiário principal: 6 - UCR. Objetivos:", 
+        "o1": "Definir os procedimentos e programas detalhados para a implementação de metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas nas disciplinas selecionadas (unidades curriculares) nas IES dos países parceiros, para cada unidade curricular envolvida.", 
+        "o2": "Seleção de empresas que fornecerão tarefas/atribuições para estudantes de LF e BL.", 
+        "o3": "Especificação detalhada de tarefas/atribuições para a implementação de metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas nas disciplinas selecionadas (unidades curriculares), nas universidades parceiras dos países parceiros para sua aplicação dentro de cada disciplina (unidade curricular).", 
+        "o4": "Plano de programação para o ensino e trabalho dos estudantes em tarefas/atribuições predefinidas ao longo do semestre, para a implementação e realização das metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas para cada uma das disciplinas selecionadas (unidades curriculares), nas universidades parceiras dos países parceiros.",
+        "deliverables": "Entregáveis:", 
+        "d1": "D3.1 - Design e procedimento de aplicação da ferramenta.", 
+        "d2": "D3.2 - 'Evento de mediação'.", 
+        "d3": "D3.3 - Plano de atribuições e programação."
+    }, 
+    "footer": {
+        "disclaimer": "Aviso Legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são exclusivamente dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente podem ser responsabilizadas por eles."
+    }
+}

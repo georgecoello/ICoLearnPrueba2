@@ -1,0 +1,80 @@
+{
+    "nav": {
+    "lang":"Cambia lingua",    
+    "title": "ICoLearn",
+    "home": "Home",
+    "about": "INFORMAZIONI SU ICoLearn",
+    "partners": "Partner",
+    "results": "Risultati",
+    "news": "Notizie",
+    "contact": "Contattaci"
+    },
+    "name": {
+    "text": "ICoLearn - Metodologie di apprendimento basate su Internet e sulla collaborazione per la trasformazione digitale e la crescita sostenibile |<b> Numero di progetto: 101127224"
+    },
+    "accordion": {
+    "information": "INFORMAZIONI GENERALI",
+    "t1": "Anno di fondazione: 1954",
+    "t2": "Numero di studenti: 33.500",
+    "t3": "Aree disciplinari:",
+    "t4": "Scienze esatte e della Terra",
+    "t5": "Scienze biologiche",
+    "t6": "Ingegneria",
+    "t7": "Scienze della salute",
+    "t8": "Scienze agrarie",
+    "t9": "Linguistica, lettere e arti",
+    "t10": "Scienze sociali applicate",
+    "t11": "Scienze umane",
+    "t12": "Nome facoltà:",
+    "t13": "Facoltà di scienze",
+    "t14": "Facoltà di scienze umane",
+    "t15": "Facoltà di tecnologia",
+    "t16": "Facoltà di scienze agrarie",
+    "t17": "Facoltà di medicina",
+    "t18": "Facoltà di farmacia",
+    "t19": "Odontoiatria e infermieristica",
+    "t20": "Facoltà di giurisprudenza",
+    "t21": "Facoltà di istruzione",
+    "t22": "Facoltà di economia",
+    "t23": "Facoltà di Scienze Marine",
+    "t24": "Facoltà di Cultura e Arti",
+    "t25": "Facoltà di Educazione Fisica e Sport",
+    "t26": "Facoltà di Istruzione a Distanza",
+    "t27": "Numero di campus universitari: 8"
+    },
+    "visit": {
+    "title": "VISITATECI!"
+    },
+    "relevant": {
+    "title": "ALTRE INFORMAZIONI RILEVANTI",
+    "info": "Anno: 2018 296 gruppi di ricerca, 284 titolari di borse di studio CNPq Productivity, 1082 attività di estensione, 11613 tirocini." },
+    "members": {
+    "title": "MEMBRI",
+    "team": "TEAM DELL'UNIVERSIDADE FEDERAL DO CEARÁ",
+    "button": "Vedi altre informazioni",
+    "area": "Area di competenza",
+    "faculty": "Facoltà",
+    "coord": "COORDINATORE",
+    "modal1-i": "Gestione delle costruzioni",
+    "modal1-f": "Centro tecnologico",
+    "modal2-i": "Efficienza energetica, mercato energetico, elettronica di potenza con applicazioni di fonti energetiche rinnovabili",
+    "modal2-f": "Centro tecnologico",
+    "modal3-i": "Analisi energetica ed exergetica di sistemi termici",
+    "modal3-f": "Centro tecnologico",
+    "modal4-i": "Ingegneria dei trasporti; Impatti ambientali e trasporti; Logistica",
+    "modal4-f": "Centro tecnologico",
+    "modal5-i": "Metodi di progettazione; Progettazione digitale; Building Information Modeling; Performance-based Design ",
+    "modal5-f": "Technology Center",
+    "modal6-i": "Decision making making, Social Life Cycle Assessment ",
+    "modal6-f": "Technology Center",
+    "modal7-i": "Data science applicata all'agricoltura/apicoltura digitale, trasformazione digitale e salute ",
+    "modal7-f": "Technology Center",
+    "modal8-i": "Ingegneria (insegnamento del calcolo), Stabilità strutturale, Meccanica della pavimentazione ",
+    "modal8-f": "Technology Center",
+    "modal9-i": "Modellazione e analisi di sistemi dinamici; Controllo e ottimizzazione di sistemi dinamici; Modellazione statistica ",
+    "modal9-f": "Technology Center"
+    },
+    "footer": {
+    "disclaimer": "Disclaimer: Finanziato dall'Unione Europea. I punti di vista e le opinioni espresse sono tuttavia solo quelli dell'autore/degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede i fondi possono esserne ritenuti responsabili."
+    }
+    }

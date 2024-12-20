@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "lang":"Change Language",
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn",
+        "partners": "Partners", 
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+    "package": {
+        "title": "Work Package 4",
+        "subtitle": "Implementation", 
+        "text1": "Duration:M25 – M36 Lead Beneficiary:5- Universidad Fidelitas Objectives:", 
+        "o1":  "Direct implementation of the learning methodologies internet-based and collaborative tools at (and by) the Partner Countries partners in three phases.", 
+        "o2": "t the beginning of the semesters, the first activities will be detailed instructions to the students on the use of tools for teaching and student’s work and organization in accordance with the pairing of particular curricula unit with particular tool, per Partner’s countries HEI for implementation, as described in WP3.",  
+        "o3": "Effective teaching and student’s works in accordance with the plans specified in details in the WP2 and WP3.",
+        "o4": "Evaluation of the implemented tools.",
+        "deliverables": "Deliverables: ", 
+        "d1": "D4.1 - Implementation of the teaching activities and students work", 
+        "d2": "D4.2 - Evaluation of the implemented tools"
+    }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}
