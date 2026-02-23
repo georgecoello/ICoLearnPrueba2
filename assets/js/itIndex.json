@@ -51,7 +51,22 @@
     "news": { 
         "title": "Notizie", 
         "n1": "Notizia #1",
-        "n1-t": "Le riunioni di lancio del progetto ICoLearn si sono svolte in modalità virtuale dal 16 al 18 gennaio 2024. Durante il primo giorno sono state prese decisioni sugli organi di gestione del progetto. Il modello finanziario e di gestione, nonché la revisione di tutte le attività e le scadenze, sono stati presentati il secondo giorno. Infine, nell'ultimo giorno della riunione di lancio sono state definite le prime attività e le responsabilità del progetto."
+        "n1-t": "Le riunioni di lancio del progetto ICoLearn si sono svolte in modalità virtuale dal 16 al 18 gennaio 2024. Durante il primo giorno sono state prese decisioni sugli organi di gestione del progetto. Il modello finanziario e di gestione, nonché la revisione di tutte le attività e le scadenze, sono stati presentati il secondo giorno. Infine, nell'ultimo giorno della riunione di lancio sono state definite le prime attività e le responsabilità del progetto.",
+        "n2":"Notizia #2 - Formazione virtuale sulle metodologie di apprendimento",
+        "n2-t":"La formazione online del progetto ICoLearn si è tenuta dall'8 al 10 maggio 2024. È stata guidata dal Professor Goran Putnik (UMINHO) e l'obiettivo era quello di introdurre i 54 partecipanti alle basi delle metodologie di apprendimento di questo progetto. Questa formazione è stata una fase preparatoria per la formazione in loco sviluppata poche settimane dopo.",
+        "n3":"Notizia #3 - Formazione in loco sulle metodologie di apprendimento a Guimaraes e Torino",
+        "n3-t":"La formazione in loco si è tenuta a Guimaraes nella settimana dal 20 al 24 maggio 2024 e a Torino nella settimana dal 27 al 31 maggio 2024. In ogni sede, i partecipanti hanno avuto l'opportunità di approfondire diverse metodologie di apprendimento, di partecipare a diverse attività per comprenderle meglio e di interagire con gli studenti che le avevano sperimentate nei loro curricula.",
+        "n4":"Notizia #4 - Assemblea annuale del primo anno",
+        "n4-t":"Il primo incontro annuale si è tenuto online il 13 dicembre 2024. È stata l'occasione per rivedere i risultati ottenuti nel primo anno del progetto, discutere l'importanza di quanto realizzato e pianificare le attività del 2025.",
+        "n5": "Notizia #5 - Evento di intermediazione nelle università partner",
+        "n5-t": "La selezione delle imprese mira a coinvolgere le imprese nel processo didattico nel contesto della learning factory e della cooperazione con l'industria, fornendo compiti/problemi aziendali per i compiti degli studenti. Questi compiti/problemi devono essere selezionati in base al programma dell'unità curriculare, allo strumento selezionato e alle esigenze dell'impresa. <br> La prima fase della selezione delle imprese è stata l''evento di intermediazione', organizzato da ciascun partner extra-UE. <br> La seconda fase della selezione delle imprese consiste nell'instaurazione di relazioni efficaci tra partner e imprese, nell'ambito dell'unità curriculare. <br>UMINHO e POLITO hanno svolto il ruolo di supporto (consulenza) e monitoraggio in questo compito.",
+        "n5-1": "Rappresentanti di diverse aziende e istituzioni con i membri del team di implementazione dell'Universidade Federal Fluminense",
+        "n5-2": "Partecipanti all'evento presso l'Universidade Federal do Ceara",
+        "n5-3": "Interazione tra aziende/istituzioni e il team di implementazione dell'Universidad de Costa Rica",
+        "n5-4": "Workshop di intermediazione con partner industriali presso l'Universidad Metropolitana de Honduras",
+        "n5-5": "Rappresentanti di aziende private, industria, agenzie di cooperazione, ONG e uffici governativi, incluso il team di ICoLearn, che hanno partecipato all'evento di intermediazione organizzato dall'Università Nazionale Autonoma dell'Honduras. Vedi <a href='https://www.facebook.com/share/v/1BvSFyLyNP/'>https://www.facebook.com/share/v/1BvSFyLyNP/</a>",
+        "n6": "Notizia #6 Riunione di gestione del secondo anno tenutasi a Niteroi, Brasile",
+        "n6-t": "La riunione di gestione del secondo anno si è tenuta dal 4 al 6 novembre 2025 presso l'UNIVERSIDADE FEDERAL FLUMINENSE (UFF) a Niteroi, Brasile, in presenza e online (con partecipazione online dell'Universidade do Minho (UMINHO). Questa è stata un'occasione ideale per discutere le attività del progetto, l'esecuzione finanziaria dei partner, la valutazione e la gestione dei rischi durante il secondo anno di progetto. Inoltre, sono state presentate le attività e le riunioni del terzo anno di progetto."
     }, 
     "contact": {
         "title": "Contattaci", 

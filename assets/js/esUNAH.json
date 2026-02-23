@@ -30,7 +30,6 @@
     "team": "EQUIPO DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS",
     "faculty": "Otra información académica relevante sobre usted",
     "coord": "COORDINADOR",
-    "subcoor": "SUBCOORDINADOR",
     "modal1-i": "Deslizamientos inducidos por lluvia, estabilidad de taludes, análisis de peligros y riesgos",
     "modal1-f": "Ingeniero Civil (Universidad Nacional Autónoma de Honduras), Doctor en Ingeniería Civil y Estructural (Universidad de Uppsala), Certificación en Riesgo Geológico y Climático (Universidad de Ginebra), Maestría en Geotecnia e Ingeniería de Fundaciones (EADIC). ORCID: https://orcid.org/0000-0003-4362-4510 ",
     "modal2-i": "Ingeniería Civil, Materiales de Construcción, Pavimentos, Gestión de Riesgos, Medio Ambiente, Gestión de Proyectos",
@@ -47,7 +46,11 @@
     "modal8-i": "Ingeniería de Aguas y Aguas Residuales ",
     "modal8-f": "Profesor Titular",
     "modal9-i": "Ingeniería Estructural | Ciencias de los Materiales | Sustentabilidad", 
-    "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>"
+    "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>",
+    "modal10-i": "Gestión Ambiental y Evaluación de Impacto Ambiental (EIA), con experiencia en Economía Circular.",
+    "modal10-f":" Ingeniero Ambiental con Maestría en Tecnologías Geo-Ambientales de la Universidad Politécnica de Madrid. <br>Profesor en el Departamento de Ingeniería Civil de la Universidad Nacional Autónoma de Honduras.",
+    "modal11-i":"Innovación, Gestión Ambiental y Gestión Administrativa en Proyectos de Ingeniería Civil.",
+    "modal11-f":"Profesional con Maestría en Ingeniería y Tecnología Ambiental e Ingeniero Civil, con múltiples diplomas en investigación científica, cambio climático, sistemas de información geográfica (SIG) y gestión de proyectos ambientales. <br>Profesor del Departamento de Ingeniería Civil de la Universidad Nacional Autónoma de Honduras. <a href='https://orcid.org/0000-0002-5252-2738'>ORCID: https://orcid.org/0000-0002-5252-2738</a>"
   }, 
     "footer": {
         "disclaimer": "Aviso Legal: Financiado por la Unión Europea. Las opiniones y puntos de vista expresados ​​son, sin embargo, los de los autores únicamente y no necesariamente reflejan los de la Unión Europea. Ni la Unión Europea ni la autoridad que otorga la subvención pueden ser considerados responsables de ellos."

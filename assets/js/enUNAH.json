@@ -14,11 +14,11 @@
     }, 
    "accordion": {
     "information": "GENERAL INFORMATION", 
-    "t1": "Fundada em 1847",
-    "t2": "É a maior universidade pública das Honduras",
-    "t3": "Tem aproximadamente 65.000 alunos, sendo mais de 4.000 académicos e 2.500 administrativos",
-    "t4": "O campus fica em Tegucigalpa (capital das Honduras) e existem 9 campus regionais",
-    "t5": "Existem 5 centros virtuais (Telecentros) e 8 centros adicionais de longa distância (CRAED)"
+    "t1": "Founded in 1847",
+    "t2": "It is the largest public university of Honduras",
+    "t3": "It has approximately 65,000 students, over 4,000 academics and 2,500 administratives",
+    "t4": "The main campus is in Tegucigalpa (the capital of Honduras) and there are 9 Regional Campuses",
+    "t5": "There are 5 virtual centres (Telecentros) and an additional 8 long distance centres (CRAED)"
    },
    "visit": {
     "title": "VISIT US!"
@@ -30,7 +30,6 @@
     "area": "Area of expertise", 
     "faculty": "Other relevant academic information about you", 
     "coord": "COORDINATOR",
-    "subcoor": "SUBCOORDINATOR",
     "modal1-i": " Rainfall-induced landslides, slope stability, hazard and risk analysis ", 
     "modal1-f": " Civil Engineer (National Autonomous University of Honduras), PhD on Civil and Structural Engineering (Uppsala University), Certification on Geological and Climate Related Risk (University of Geneva), MSc on Geotechnics and Foundation Engineering (EADIC). ORCID: https://orcid.org/0000-0003-4362-4510 ", 
     "modal2-i": " Civil Engineering, Construction Materials, Pavements, Risk management, Environment, Project Management ",
@@ -47,7 +46,11 @@
     "modal8-i": "Water and Wastewater Engineering ", 
     "modal8-f": "Full professor", 
     "modal9-i": "Structural Engineering | Material Sciences | Sustainability",
-    "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>"
+    "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>",
+    "modal10-i": "Environmental Management and Environmental Impact Assessment (EIA), with expertise in Circular Economy.",
+    "modal10-f": "Environmental Engineer with a Master’s degree in Geo-Environmental Technologies from the Polytechnic University of Madrid. <br>Professor in the Civil Engineering Department of Universidad Nacional Autónoma de Honduras.",
+    "modal11-i":"Innovation, Environmental Management, and Administrative Management in Civil Engineering Projects.",
+    "modal11-f": "Professional with a Master’s degree in Environmental Engineering and Technology and a Civil Engineer, with multiple diplomas in scientific research, climate change, geographic information systems (GIS), and environmental project management. <br>Professor in the Civil Engineering Department of Universidad Nacional Autónoma de Honduras. <a href='https://orcid.org/0000-0002-5252-2738'>ORCID: https://orcid.org/0000-0002-5252-2738</a>"
    }, 
     "footer": {
         "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."

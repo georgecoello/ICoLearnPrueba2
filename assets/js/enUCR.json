@@ -29,7 +29,19 @@
    }, 
    "relevant": {
     "title": "OTHER RELEVANT INFORMATION",
-    "info": " The main campus is located in center of San José, Costa Rica. It has 12 locations, spread out along the CR territory. The larger ones are called “Sedes” and the smaller ones are called “Recintos”: 1) San José, 2) San Ramón, 3) Grecia, 4) Liberia, 5) Santa Cruz, 6) Puntarenas, 7) Limón, 8) Guápiles, 9) Turrialba, 10) Golfito, 11) Alajuela, 12) Paraíso."
+    "info": " The main campus is located in center of San José, Costa Rica. It has 12 locations, spread out along the CR territory. The larger ones are called “Sedes” and the smaller ones are called “Recintos”: ",
+    "uni1":"San José",
+    "uni2":"San Ramón",
+    "uni3":"Grecia",
+    "uni4":"Liberia",
+    "uni5":"Santa Cruz",
+    "uni6":"Puntarenas",
+    "uni7":"Limón",
+    "uni8":"Guápiles",
+    "uni9":"Turrialba",
+    "uni10":"Golfito",
+    "uni11":"Alajuela",
+    "uni12":"Paraíso" 
    },
    "members": {
     "title": "MEMBERS",

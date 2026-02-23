@@ -69,7 +69,7 @@
     <h5 data-section="nav" data-value="lang">Change language</h5>
     <button class="lang-button" data-language="enUCR">🇬🇧</button>
     <button class="lang-button" data-language="esUCR">🇪🇸</button>
-    <button class="lang-button" data-language="ptUCR">🇵🇹</button>
+    <button class="lang-button" data-language="ptUCR">🇧🇷</button>
     <button class="lang-button" data-language="itUCR">🇮🇹</button>
   </div>
 </header><!-- End Header -->
@@ -139,33 +139,36 @@
       </div>
     </div>
     <div class="accordion-item">
-      <h2 class="accordion-header" id="flush-headingThree">
+    <h2 class="accordion-header" id="flush-headingThree">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree" data-section="relevant" data-value="title">
-          OTHER RELEVANT INFORMATION
+            OTHER RELEVANT INFORMATION
         </button>
-      </h2>
-      <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-        <div class="accordion-body" data-section="relevant" data-value="info">
-          <p>
-            The main campus is located in center of San José, Costa Rica. It has 12 locations, spread out along the CR territory. The larger ones are called “Sedes” and the smaller ones are called “Recintos”.
+    </h2>
+    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+        <div class="accordion-body">
+            <!-- Texto descriptivo - ahora en su propio elemento -->
+            <p data-section="relevant" data-value="info">
+                The main campus is located in center of San José, Costa Rica. It has 12 locations, spread out along the CR territory. The larger ones are called "Sedes" and the smaller ones are called "Recintos":
+            </p>
+            
+            <!-- Lista separada del párrafo -->
             <ul style="margin-left: 25px;">
-              <li>San José</li>
-              <li>San Ramón</li>
-              <li>Grecia</li>
-              <li>Liberia</li>
-              <li>Santa Cruz</li>
-              <li>Puntarenas</li>
-              <li>Limón</li>
-              <li>Guápiles</li>
-              <li>Turrialba</li>
-              <li>Golfito</li>
-              <li>Alajuela</li>
-              <li>Paraíso</li>
+                <li><span data-section="relevant" data-value="uni1">San José</span></li>
+                <li><span data-section="relevant" data-value="uni2">San Ramón</span></li>
+                <li><span data-section="relevant" data-value="uni3">Grecia</span></li>
+                <li><span data-section="relevant" data-value="uni4">Liberia</span></li>
+                <li><span data-section="relevant" data-value="uni5">Santa Cruz</span></li>
+                <li><span data-section="relevant" data-value="uni6">Puntarenas</span></li>
+                <li><span data-section="relevant" data-value="uni7">Limón</span></li>
+                <li><span data-section="relevant" data-value="uni8">Guápiles</span></li>
+                <li><span data-section="relevant" data-value="uni9">Turrialba</span></li>
+                <li><span data-section="relevant" data-value="uni10">Golfito</span></li>
+                <li><span data-section="relevant" data-value="uni11">Alajuela</span></li>
+                <li><span data-section="relevant" data-value="uni12">Paraíso</span></li>
             </ul>
-          </p>
         </div>
-      </div>
     </div>
+</div>
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingFour">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour" data-section="members" data-value="title">
@@ -194,12 +197,12 @@
                       <h4>Erick Mata Abdelnour, Ph.D | UCR</h4>
                       <h5 data-section="members" data-value="coord">COORDINATOR</h5>
                        <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" style="font-size: 12px;" data-section="members" data-value="button">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
                     <!-- Modal -->
-                    <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="margin-top: 15vh !important;">
+                    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="margin-top: 15vh !important;">
                       <div class="modal-dialog">
                         <div class="modal-content">
                           <div class="modal-header">
@@ -517,12 +520,12 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Octavio Zúñiga Cubillo, M.Sc. | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal9-i" data-value="modal9-f">
+                          <div class="modal-body" style="text-align: justify">
                             Email: octavio.zuniga@ucr.ac.cr
                             <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
-                            Civil Engineering <br>
+                            <p class="members" data-section="members" data-value="modal9-i">Civil Engineering</p><br>
                             <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
-                            Civil Engineering School
+                            <p class="modal-text" data-section="members" data-value="modal9-f">Civil Engineering School</p>
                           </div>
                           <div class="modal-footer">
                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>

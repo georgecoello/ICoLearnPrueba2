@@ -29,7 +29,6 @@
         "area": "Área de especialização", 
         "faculty": "Outras informações acadêmicas relevantes sobre você",
         "coord": "COORDENADOR",
-        "subcoor": "SUBCOORDENADOR",
         "modal1-i": "Deslizamentos induzidos pela chuva, estabilidade de taludes, análise de perigos e riscos",
         "team":"EQUIPE DA UNIVERSIDADE NACIONAL AUTÔNOMA DE HONDURAS",
         "modal1-f": "Engenheiro Civil (Universidade Nacional Autônoma de Honduras), Doutor em Engenharia Civil e Estrutural (Universidade de Uppsala), Certificação em Risco Geológico e Climático (Universidade de Genebra), Mestrado em Geotecnia e Engenharia de Fundações (EADIC). ORCID: https://orcid.org/0000-0003-4362-4510 ",
@@ -47,7 +46,11 @@
         "modal8-i": "Engenharia de Águas e Águas Residuais",
         "modal8-f": "Professor Titular",
         "modal9-i": "Engenharia Estrutural | Ciências dos Materiais | Sustentabilidade",
-        "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>"
+        "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>",
+        "modal10-i": "Gestão Ambiental e Avaliação de Impacto Ambiental (AIA), com especialização em Economia Circular.",
+        "modal10-f": "Engenheiro Ambiental com mestrado em Tecnologias Geoambientais pela Universidade Politécnica de Madrid. <br>Professor do Departamento de Engenharia Civil da Universidade Nacional Autônoma de Honduras.",
+        "modal11-i":"Inovação, Gestão Ambiental e Gestão Administrativa em Projetos de Engenharia Civil.",
+        "modal11-f": "Profissional com mestrado em Engenharia e Tecnologia Ambiental e Engenheiro Civil, com múltiplos diplomas em pesquisa científica, mudanças climáticas, sistemas de informação geográfica (SIG) e gestão de projetos ambientais. <br>Professor do Departamento de Engenharia Civil da Universidade Nacional Autônoma de Honduras. <a href='https://orcid.org/0000-0002-5252-2738'>ORCID: https://orcid.org/0000-0002-5252-2738</a>"
    }, 
     "footer": {
         "disclaimer": "Aviso Legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são apenas dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente podem ser responsabilizadas por eles."

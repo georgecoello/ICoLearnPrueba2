@@ -51,7 +51,22 @@
     "news": { 
         "title": "News", 
         "n1": "News #1",
-         "n1-t": "The kick-off meetings of the ICoLearn project were held virtually from January 16th to January 18th , 2024. During Day 1, decisions on the project management bodies were made. The financial model and management as well as the review of all tasks and timings were presented on Day 2. Finally, the first project tasks and responsibles were defined on the last day of the kick-off meeting."
+         "n1-t": "The kick-off meetings of the ICoLearn project were held virtually from January 16th to January 18th , 2024. During Day 1, decisions on the project management bodies were made. The financial model and management as well as the review of all tasks and timings were presented on Day 2. Finally, the first project tasks and responsibles were defined on the last day of the kick-off meeting.",
+         "n2": "News #2 - Virtual training on learning methodologies",
+         "n2-t": "The online training of the ICoLearn project was held from May 08th to May 10th, 2024. It was lead by Professor Goran Putnik (UMINHO) and the objective was to introduce the 54 participants to the basics of the learning methodologies for this project. This training was a preparatory step for the on-site training developed a few weeks later.",
+         "n3": "News #3 - On site training on learning methodologies in Guimaraes and Torino",
+         "n3-t":"The on site training was held in Guimaraes during the week of May 20th to May 24th, 2024 and in Torino during the week of May 27th to May 31st, 2024. At each site, the participants had the opportunity to learn in depth about different learning methodologies, engaged in several activities to better understand the learning methodologies and interacted with the students that experienced such learning methodologies in their curricula units.",
+         "n4":"News #4 - First year annual meeting",
+         "n4-t":"The first annual meeting was held online on December 13th, 2024. It was an opportunity to review the achievements during the first year of the project, discuss the importance of what has been accomplished and plan the activities of 2025.",
+         "n5": "News #5 - Brokering event in partner universities",
+         "n5-t": "The selection of enterprises aims to involve enterprises in the teaching process in the context of learning factory and cooperation with industry, providing enterprise-based tasks/problems for student’s assignments. These tasks/problems should be selected accordingly with the curricula unit programme and selected tool and the enterprise’s needs. <br> First phase of enterprise selection was the “brokering event”, organized by each non-EU partner. <br> Second phase of enterprise selection is the establishment of effective relationships between partners and enterprises, in the function of the curricular unit. <br>UMINHO and POLITO had the supporting (consulting) and monitoring role in this task.",
+         "n5-1": "Representatives of different companies and institutions with the elements of the implementation team at Universidade Federal Fluminense",
+         "n5-2": "Participants of the event at Universidade Federal do Ceara",
+         "n5-3": "Interaction among the companies/institutions and the implementation team at Universidad de Costa Rica",
+         "n5-4":"Brokering Event Workshop with Industry Partners at Universidad Metropolitana de Honduras",
+         "n5-5":"Representatives from private companies, industry, cooperation agencies, NGOs and government offices ncluding the ICoLearn team, who attended the brokering event organized by the National Autonomous University of Honduras. See <a href='https://www.facebook.com/share/v/1BvSFyLyNP/'>https://www.facebook.com/share/v/1BvSFyLyNP/</a>",
+         "n6": "News # 6 Second year management meeting held in Niteroi, Brasil",
+         "n6-t": "The second year management meeting was held on 04th to 06th November 2025 at UNIVERSIDADE FEDERAL FLUMINENSE (UFF) in Niteroi, Brazil, in presence and online (online participation of Universidade do Minho (UMINHO). This was an ideal opportunity to discuss the project activities, financial execution of the partners, risk evaluation and management during the second year of the project. In addition, the activities and meetings for the third year of the project were presented."
     }, 
     "contact": {
         "title": "Contact us", 

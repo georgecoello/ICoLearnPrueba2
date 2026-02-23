@@ -29,7 +29,19 @@
    }, 
    "relevant": {
     "title": "OTRA INFORMACIÓN RELEVANTE",
-    "info": " El campus principal está ubicado en el centro de San José, Costa Rica. Tiene 12 sedes, repartidas por el territorio de la República Checa. Los más grandes se llaman “Sedes” y los más pequeños se llaman “Recintos”: 1) San José, 2) San Ramón, 3) Grecia, 4) Liberia, 5) Santa Cruz, 6) Puntarenas, 7) Limón, 8) Guápiles, 9) Turrialba, 10) Golfito, 11) Alajuela, 12) Paraíso."
+    "info": " El campus principal está ubicado en el centro de San José, Costa Rica. Tiene 12 sedes, repartidas por el territorio de la República Checa. Los más grandes se llaman “Sedes” y los más pequeños se llaman “Recintos”: ",
+    "uni1":"San José",
+    "uni2":"San Ramón",
+    "uni3":"Grecia",
+    "uni4":"Liberia",
+    "uni5":"Santa Cruz",
+    "uni6":"Puntarenas",
+    "uni7":"Limón",
+    "uni8":"Guápiles",
+    "uni9":"Turrialba",
+    "uni10":"Golfito",
+    "uni11":"Alajuela",
+    "uni12":"Paraíso" 
    },
    "members": {
     "title": "MIEMBROS",

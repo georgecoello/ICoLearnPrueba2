@@ -29,7 +29,6 @@
     "area": "Area di specializzazione", 
     "faculty": "Altre informazioni accademiche rilevanti su di te",
     "coord": "COORDINATORE",
-    "subcoor": "SOTTOCOORDINATORE",
     "modal1-i": "Frane indotte dalla pioggia, stabilità delle scarpate, analisi dei pericoli e dei rischi",
     "team": "SQUADRA DELL'UNIVERSITÀ NAZIONALE AUTONOMA DELL'HONDURAS",
     "modal1-f": "Ingegnere Civile (Università Nazionale Autonoma dell'Honduras), Dottore in Ingegneria Civile e Strutturale (Università di Uppsala), Certificazione in Rischio Geologico e Climatico (Università di Ginevra), Master in Geotecnica e Ingegneria delle Fondazioni (EADIC). ORCID: https://orcid.org/0000-0003-4362-4510 ",
@@ -47,7 +46,11 @@
     "modal8-i": "Ingegneria delle Acque e delle Acque Reflue",
     "modal8-f": "Professore Ordinario",
     "modal9-i": "Ingegneria Strutturale | Scienze dei Materiali | Sostenibilità", 
-    "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>"
+    "modal9-f": "<a href='https://orcid.org/0009-0005-1228-4551'>https://orcid.org/0009-0005-1228-4551</a>",
+    "modal10-i": "Gestione Ambientale e Valutazione di Impatto Ambientale (VIA), con esperienza in Economia Circolare.",
+    "modal10-f": "Ingegnere ambientale con Master in Tecnologie Geoambientali presso l'Università Politecnica di Madrid. <br>Professore presso il Dipartimento di Ingegneria Civile dell'Università Nazionale Autonoma dell'Honduras.",
+    "modal11-i":"Innovazione, Gestione Ambientale e Gestione Amministrativa nei Progetti di Ingegneria Civile.",
+    "modal11-f": "Professionista con laurea magistrale in Ingegneria e Tecnologia Ambientale e Ingegnere Civile, con numerosi diplomi in ricerca scientifica, cambiamenti climatici, sistemi informativi geografici (GIS) e gestione di progetti ambientali. <br>Professore presso il Dipartimento di Ingegneria Civile dell'Università Nazionale Autonoma dell'Honduras. <a href='https://orcid.org/0000-0002-5252-2738'>ORCID: https://orcid.org/0000-0002-5252-2738</a>"
   }, 
     "footer": {
         "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono tuttavia quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere considerati responsabili."
