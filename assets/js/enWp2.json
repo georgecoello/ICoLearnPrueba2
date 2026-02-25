@@ -15,7 +15,9 @@
     "package": {
         "title": "Work Package 2",
         "subtitle": "Preparation and Training", 
-        "text1": "Duration:M2-M12 Lead Beneficiary:4 - UFC Objectives:", 
+        "t1": "Duration:M2-M12",
+        "t2": "Lead Beneficiary:4 - UFC",
+        "t3": "Objectives:",
         "o1": "Provide training to the partners from Partner Countries on the underlying topics, themes, concepts, methodologies and technologies relevant for the project’s objectives and implementation.", 
         "o2": "The topics, themes, concepts, methodologies and technologies on which the training will be provided are: 1) Education paradigms: Education 1.0, Education 2.0 and Education 3.0; 2) Pedagogical methodologies framework; 3) digital transformation in education and sustainable growth, 4) Learning methodologies internet-based and collaborative tools: social-networked based education (SNE), learning factory (LF), blended learning (BL), co-creation of learning materials (CoLM), game-based learning (GL), virtuality (V), integrated projects (IP) and project-led-education (PLE).", 
         "o3": "Demonstration in real-life of the learning methodologies internet-based and collaborative tools which will be implemented in Partner Countries partners’ HEI: 1) UMINHO will demonstrate its practice in SNE, LF, AL, CoLM, GL, V, IP and PLE; 2) POLITO will demonstrate its practice in blended learning and cooperation with industry.",

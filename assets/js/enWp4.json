@@ -15,7 +15,9 @@
     "package": {
         "title": "Work Package 4",
         "subtitle": "Implementation", 
-        "text1": "Duration:M25 – M36 Lead Beneficiary:5- Universidad Fidelitas Objectives:", 
+        "t1": "Duration:M25 – M36",
+        "t2": "Lead Beneficiary:5- Universidad Fidelitas",
+        "t3": "Objectives:",
         "o1":  "Direct implementation of the learning methodologies internet-based and collaborative tools at (and by) the Partner Countries partners in three phases.", 
         "o2": "t the beginning of the semesters, the first activities will be detailed instructions to the students on the use of tools for teaching and student’s work and organization in accordance with the pairing of particular curricula unit with particular tool, per Partner’s countries HEI for implementation, as described in WP3.",  
         "o3": "Effective teaching and student’s works in accordance with the plans specified in details in the WP2 and WP3.",

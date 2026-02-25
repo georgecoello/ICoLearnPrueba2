@@ -15,7 +15,9 @@
     "package": {
         "title": "Pacchetto di lavoro 1",
         "subtitle": "Gestione e coordinamento del progetto",
-        "text1": "Durata: M1 – M36 Beneficiario principale: 1 - UMINHO Obiettivi:",
+        "t1": "Durata: M1 – M36",
+        "t2": "Beneficiario principale: 1 - UMINHO",
+        "t3": "Obiettivi:",
         "o1": "Questo pacchetto di lavoro 1 si concentrerà sulla gestione delle attività, delle risorse e dei costi del progetto, nonché sulla gestione della comunicazione, della gestione dei rischi e dei conflitti e della gestione della qualità del progetto.",
         "o2": "Il coordinatore sarà il principale responsabile della gestione dei rischi e dei conflitti.",
         "o3": "La presentazione di report continui tra i partner e le riunioni del consiglio di gestione del progetto contribuiranno alla qualità dei risultati del progetto.",

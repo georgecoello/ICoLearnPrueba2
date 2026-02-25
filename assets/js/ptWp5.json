@@ -15,7 +15,9 @@
     "package": {
         "title": "Pacote de trabalho 5",
         "subtitle": "Impacto e Difusão",
-        "text1": "Duração: M1 – M36. Beneficiário principal: 3 - FLUMINENSE. Objetivos:", 
+        "t1": "Duração: M1 – M36",
+        "t2": "Beneficiário principal: 3 - FLUMINENSE",
+        "t3": "Objetivos:",
         "o1": "O WP5 tem como objetivo importante (1) a avaliação do impacto, a definição do plano de sustentabilidade e exploração para aumentar o impacto, e (2) a difusão dos resultados do projeto, durante a vida do projeto, bem como além de sua conclusão.", 
         "o2":"Publicação do site do projeto.", 
         "o3":  "Publicação do site do projeto. Publicação de materiais de formação e materiais promocionais do projeto", 

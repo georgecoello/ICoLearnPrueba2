@@ -15,7 +15,9 @@
     "package": {
         "title": "Pacote de trabalho 4",
         "subtitle": "Implementação", 
-        "text1": "Duração: M25 – M36. Beneficiário principal: 5 - Universidade Fidelitas. Objetivos:", 
+        "t1": "Duração: M25 – M36",
+        "t2": "Beneficiário Principal: 5 - Universidad Fidelitas",
+        "t3": "Objetivos:",
         "o1": "Implementação direta das metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas (e por) parceiros dos países parceiros em três fases.",  
         "o2": "No início dos semestres, as primeiras atividades serão instruções detalhadas aos alunos sobre a utilização de ferramentas de ensino e do trabalho e organização do aluno de acordo com o emparelhamento de determinada unidade curricular com determinada ferramenta, por IES dos países Parceiros para implementação, conforme descrito no WP3.",
         "o3": "Ensino eficaz e trabalhos dos alunos de acordo com os planos detalhados no WP2 e WP3.",

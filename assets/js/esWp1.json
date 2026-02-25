@@ -15,7 +15,9 @@
     "package": {
         "title": "Paquete de trabajo 1",
         "subtitle": "Gestión y coordinación del proyecto",
-        "text1": "Duración:M1 – M36 Beneficiario principal: 1 - UMINHO Objetivos:",
+        "t1": "Duración: M1 – M36",
+        "t2": "Beneficiario principal: 1 - UMINHO",
+        "t3": "Objetivos:",
         "o1": "Este WP1 se centrará en la gestión de actividades, recursos y costos del proyecto, así como en la gestión de la comunicación, la gestión de riesgos y conflictos, y la gestión de la calidad del proyecto.",
         "o2": "El Coordinador será el principal responsable de la gestión de riesgos y conflictos.",
         "o3": "ontinuous reporting among partners and project management board meetings will contribute to the quality of project results.",

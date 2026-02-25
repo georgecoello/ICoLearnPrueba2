@@ -15,7 +15,9 @@
     "package": {
         "title": "Work Package 1",
         "subtitle": "Project management and coordination", 
-        "text1": "Duration:M1 – M36 Lead Beneficiary: 1 - UMINHO            Objectives:",
+        "t1": "Duration:M1 – M36",
+        "t2": "Lead Beneficiary: 1 - UMINHO",
+        "t3": "Objectives:",
         "o1": "This WP1 will be focused on management of project activities, resources and costs as well as communication management, risk and conflict management, and project quality management.", 
         "o2": "The Coordinator will be the principal responsible for risk and conflict management.",
         "o3": "Continuous reporting among partners and project management board meetings will contribute to the quality of project results.", 

@@ -15,7 +15,9 @@
     "package": {
         "title": "Work Package 3",
         "subtitle": "Design and Organization", 
-        "text1": "Duration:M13 – M24 Lead Beneficiary:6- UCR Objectives:", 
+        "t1": "Duration:M13 – M24",
+        "t2": "Lead Beneficiary:6- UCR",
+        "t3": "Objectives:",
         "o1": "Define the detailed procedures and programs for implementation of learning methodologies internet-based and collaborative tools in the selected subjects (curricula units) at the Partner Countries HEI, for each curricula unit involved.", 
         "o2": "Selection of enterprises which will provide tasks/assignments for students for LF and BL.", 
         "o3": "Detailed specification of tasks/assignments for implementation of learning methodologies internet-based and collaborative tools in the selected subjects (curricula units), at the Partner Countries partners’ universities for application within the each subject (curricula unit).", 

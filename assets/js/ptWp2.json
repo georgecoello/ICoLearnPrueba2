@@ -15,7 +15,9 @@
     "package": {
         "title": "Pacote de trabalho 2",
         "subtitle": "Preparação e capacitação",
-        "text1": "Duração: M2-M12. Beneficiário principal: 4 - UFC. Objetivos:",
+        "t1": "Duração: M2-M12",
+        "t2": "Beneficiário Principal: 4 - UFC",
+        "t3": "Objetivos:",
         "o1": "Fornecer capacitação aos parceiros dos países parceiros sobre os temas, conceitos, metodologias e tecnologias subjacentes relevantes para os objetivos e a implementação do projeto.",
         "o2": "Os temas, conceitos, metodologias e tecnologias sobre os quais a capacitação será fornecida são: 1) Paradigmas educacionais: Educação 1.0, Educação 2.0 e Educação 3.0; 2) Quadro de metodologias pedagógicas; 3) Transformação digital na educação e crescimento sustentável; 4) Metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas: educação baseada em redes sociais (SNE), fábrica de aprendizagem (LF), aprendizagem combinada (BL), co-criação de materiais de aprendizagem (CoLM), aprendizagem baseada em jogos (GL), virtualidade (V), projetos integrados (IP) e educação dirigida por projetos (PLE).", 
         "o3": "Demonstração na vida real das metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas que serão implementadas nas IES dos países parceiros: 1) UMINHO demonstrará sua prática em SNE, LF, AL, CoLM, GL, V, IP e PLE; 2) POLITO demonstrará sua prática em aprendizagem combinada e cooperação com a indústria.", 

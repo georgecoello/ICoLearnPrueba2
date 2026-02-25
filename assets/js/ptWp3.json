@@ -15,7 +15,9 @@
     "package": {
         "title": "Pacote de trabalho 3",
         "subtitle": "Design e organização",
-        "text1": "Duração: M13 – M24. Beneficiário principal: 6 - UCR. Objetivos:", 
+        "t1": "Duração: M13 – M24",
+        "t2": "Beneficiário Principal: 6- UCR",
+        "t3": "Objetivos:",
         "o1": "Definir os procedimentos e programas detalhados para a implementação de metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas nas disciplinas selecionadas (unidades curriculares) nas IES dos países parceiros, para cada unidade curricular envolvida.", 
         "o2": "Seleção de empresas que fornecerão tarefas/atribuições para estudantes de LF e BL.", 
         "o3": "Especificação detalhada de tarefas/atribuições para a implementação de metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas nas disciplinas selecionadas (unidades curriculares), nas universidades parceiras dos países parceiros para sua aplicação dentro de cada disciplina (unidade curricular).", 
