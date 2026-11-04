@@ -53,7 +53,9 @@
     "modal9-i": "Strategia, Gestione della qualità, Gestione dei progetti, Gestione operativa, Business Intelligence",
     "modal9-f": "Dipartimento di Ingegneria della produzione - Facoltà di Ingegneria",
     "modal10-i": "Project Management, Project Management sostenibile, Sostenibilità, Economia circolare, Gestione della qualità, Gestione dei rischi, Gestione della continuità operativa",
-    "modal10-f": "Dipartimento di Ingegneria della produzione - Scuola di Ingegneria"
+    "modal10-f": "Dipartimento di Ingegneria della produzione - Scuola di Ingegneria",
+    "modal11-i": "Elettronica di potenza, automazione e gestione dei progetti.",
+    "modal11-f": "Dipartimento di Ingegneria Elettrica - Universidade Federal Fluminense - Niterói - Brasile"
    }, 
     "footer": {
         "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Tuttavia, le opinioni e i punti di vista espressi sono esclusivamente quelli dell'autore e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità erogatrice del finanziamento possono essere considerati responsabili."
