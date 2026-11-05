@@ -937,7 +937,7 @@ section {
 --------------------------------------------------------------*/
 
 .contact {
-  margin-bottom: 40px;
+  margin-bottom: 80px;
   background-color: #f3fbff;
   height: 500px;
 }
@@ -1417,6 +1417,119 @@ section {
   .contact-person:hover {
     transform: translateY(-4px);
     box-shadow: 0 8px 24px rgba(73, 181, 231, 0.25);
+  }
+}
+
+.credits {
+  padding: 48px 0 80px;
+  background: #f3fbff;
+}
+
+.credits .section-title {
+  padding-top: 0;
+  padding-bottom: 32px;
+}
+
+.credits .section-title h2 {
+  margin-bottom: 10px;
+}
+
+.credits .section-title p {
+  color: #5b6870;
+  font-size: 1.1rem;
+}
+
+.credits-grid {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.credit-card {
+  height: 100%;
+  min-height: 235px;
+  padding: 28px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: #fff;
+  border: 1px solid #e3eef3;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(34, 84, 108, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.credit-card:hover {
+  transform: translateY(-5px);
+  border-color: #9bd8f1;
+  box-shadow: 0 14px 30px rgba(34, 84, 108, 0.14);
+}
+
+.credit-card__icon {
+  width: 52px;
+  height: 52px;
+  margin-bottom: 16px;
+  display: grid;
+  place-items: center;
+  color: #168fc0;
+  background: #e8f7fd;
+  border-radius: 50%;
+  font-size: 1.6rem;
+}
+
+.credit-card h3 {
+  margin: 0 0 12px;
+  color: #243b4a;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.credit-card a {
+  max-width: 100%;
+  color: #4f6572;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.credit-card a:hover,
+.credit-card a:focus-visible {
+  color: #168fc0;
+  text-decoration: underline;
+}
+
+.credit-card__affiliation {
+  margin-top: auto;
+  padding: 5px 13px;
+  color: #137ba5;
+  background: #e8f7fd;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+
+@media (max-width: 575px) {
+  .credits {
+    padding: 36px 0 56px;
+  }
+
+  .credit-card {
+    min-height: 210px;
+    padding: 24px 18px;
+  }
+}
+
+.contact.credits-page {
+  height: auto;
+  margin-bottom: 0 !important;
+  padding: 48px 0 150px;
+}
+
+@media (max-width: 768px) {
+  .contact.credits-page {
+    padding-bottom: 280px;
   }
 }
 

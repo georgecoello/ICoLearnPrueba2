@@ -104,5 +104,9 @@
     }, 
     "footer": {
         "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono, tuttavia, quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere ritenuti responsabili."
+    },
+    "credits": {
+        "title": "Crediti",
+        "subtitle": "Vorremmo ringraziare:"
     }
 }

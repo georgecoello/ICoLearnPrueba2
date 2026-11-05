@@ -104,5 +104,9 @@
     }, 
     "footer": {
         "disclaimer": "Aviso legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são exclusivamente dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade que concede a bolsa podem ser responsabilizados por eles."
+    },
+    "credits": {
+        "title": "Créditos",
+        "subtitle": "Queremos agradecer a:"
     }
 }
